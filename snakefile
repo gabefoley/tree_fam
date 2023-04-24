@@ -56,7 +56,7 @@ rule convert_tree:
 # Create the initial annotation file from the FASTA file or list of IDs
 rule infer_ancestors:
     input:
-        aln =  OUTPUT_FOLDER + "/{dataset}/{dataset}.aln",
+        aln =  OUTPUT_FOLDER + "/{dataset}/{dataset}.aa.fasta",
         tree = OUTPUT_FOLDER + "/{dataset}/{dataset}.nwk"
 
     output:
