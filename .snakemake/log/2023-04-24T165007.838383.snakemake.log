@@ -1,0 +1,244 @@
+Building DAG of jobs...
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101007.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101001.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101006.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101010.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101005.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101008.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101003.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101009.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101002.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101004.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count    min threads    max threads
+--------------  -------  -------------  -------------
+all                   1              1              1
+extract_newick       10              1              1
+total                11              1              1
+
+Select jobs to execute...
+
+[Mon Apr 24 16:50:07 2023]
+rule extract_newick:
+    input: ./data/TF101001.nh.emf
+    output: ./output/TF101001/TF101001.nwk
+    jobid: 12
+    reason: Missing output files: ./output/TF101001/TF101001.nwk
+    wildcards: dataset=TF101001
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:08 2023]
+Finished job 12.
+1 of 11 steps (9%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:08 2023]
+rule extract_newick:
+    input: ./data/TF101007.nh.emf
+    output: ./output/TF101007/TF101007.nwk
+    jobid: 11
+    reason: Missing output files: ./output/TF101007/TF101007.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101007
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:08 2023]
+Finished job 11.
+2 of 11 steps (18%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:08 2023]
+rule extract_newick:
+    input: ./data/TF101004.nh.emf
+    output: ./output/TF101004/TF101004.nwk
+    jobid: 20
+    reason: Missing output files: ./output/TF101004/TF101004.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101004
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:08 2023]
+Finished job 20.
+3 of 11 steps (27%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:08 2023]
+rule extract_newick:
+    input: ./data/TF101002.nh.emf
+    output: ./output/TF101002/TF101002.nwk
+    jobid: 19
+    reason: Missing output files: ./output/TF101002/TF101002.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101002
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:09 2023]
+Finished job 19.
+4 of 11 steps (36%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:09 2023]
+rule extract_newick:
+    input: ./data/TF101005.nh.emf
+    output: ./output/TF101005/TF101005.nwk
+    jobid: 15
+    reason: Missing output files: ./output/TF101005/TF101005.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101005
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:09 2023]
+Finished job 15.
+5 of 11 steps (45%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:09 2023]
+rule extract_newick:
+    input: ./data/TF101009.nh.emf
+    output: ./output/TF101009/TF101009.nwk
+    jobid: 18
+    reason: Missing output files: ./output/TF101009/TF101009.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101009
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:09 2023]
+Finished job 18.
+6 of 11 steps (55%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:09 2023]
+rule extract_newick:
+    input: ./data/TF101003.nh.emf
+    output: ./output/TF101003/TF101003.nwk
+    jobid: 17
+    reason: Missing output files: ./output/TF101003/TF101003.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101003
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:10 2023]
+Finished job 17.
+7 of 11 steps (64%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:10 2023]
+rule extract_newick:
+    input: ./data/TF101010.nh.emf
+    output: ./output/TF101010/TF101010.nwk
+    jobid: 14
+    reason: Missing output files: ./output/TF101010/TF101010.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101010
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:10 2023]
+Finished job 14.
+8 of 11 steps (73%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:10 2023]
+rule extract_newick:
+    input: ./data/TF101008.nh.emf
+    output: ./output/TF101008/TF101008.nwk
+    jobid: 16
+    reason: Missing output files: ./output/TF101008/TF101008.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101008
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:10 2023]
+Finished job 16.
+9 of 11 steps (82%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:10 2023]
+rule extract_newick:
+    input: ./data/TF101006.nh.emf
+    output: ./output/TF101006/TF101006.nwk
+    jobid: 13
+    reason: Missing output files: ./output/TF101006/TF101006.nwk; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: dataset=TF101006
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:11 2023]
+Finished job 13.
+10 of 11 steps (91%) done
+Select jobs to execute...
+
+[Mon Apr 24 16:50:11 2023]
+localrule all:
+    input: ./output/TF101007/TF101007.aa.fasta, ./output/TF101001/TF101001.aa.fasta, ./output/TF101001/TF101001.aa.fasta, ./output/TF101006/TF101006.aa.fasta, ./output/TF101010/TF101010.aa.fasta, ./output/TF101007/TF101007.aa.fasta, ./output/TF101006/TF101006.aa.fasta, ./output/TF101005/TF101005.aa.fasta, ./output/TF101008/TF101008.aa.fasta, ./output/TF101003/TF101003.aa.fasta, ./output/TF101009/TF101009.aa.fasta, ./output/TF101008/TF101008.aa.fasta, ./output/TF101003/TF101003.aa.fasta, ./output/TF101002/TF101002.aa.fasta, ./output/TF101010/TF101010.aa.fasta, ./output/TF101004/TF101004.aa.fasta, ./output/TF101004/TF101004.aa.fasta, ./output/TF101005/TF101005.aa.fasta, ./output/TF101009/TF101009.aa.fasta, ./output/TF101002/TF101002.aa.fasta, ./output/TF101007/TF101007.nwk, ./output/TF101001/TF101001.nwk, ./output/TF101001/TF101001.nwk, ./output/TF101006/TF101006.nwk, ./output/TF101010/TF101010.nwk, ./output/TF101007/TF101007.nwk, ./output/TF101006/TF101006.nwk, ./output/TF101005/TF101005.nwk, ./output/TF101008/TF101008.nwk, ./output/TF101003/TF101003.nwk, ./output/TF101009/TF101009.nwk, ./output/TF101008/TF101008.nwk, ./output/TF101003/TF101003.nwk, ./output/TF101002/TF101002.nwk, ./output/TF101010/TF101010.nwk, ./output/TF101004/TF101004.nwk, ./output/TF101004/TF101004.nwk, ./output/TF101005/TF101005.nwk, ./output/TF101009/TF101009.nwk, ./output/TF101002/TF101002.nwk
+    jobid: 0
+    reason: Input files updated by another job: ./output/TF101006/TF101006.nwk, ./output/TF101005/TF101005.nwk, ./output/TF101010/TF101010.nwk, ./output/TF101001/TF101001.nwk, ./output/TF101008/TF101008.nwk, ./output/TF101007/TF101007.nwk, ./output/TF101002/TF101002.nwk, ./output/TF101004/TF101004.nwk, ./output/TF101009/TF101009.nwk, ./output/TF101003/TF101003.nwk
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:50:11 2023]
+Finished job 0.
+11 of 11 steps (100%) done
+Complete log: .snakemake/log/2023-04-24T165007.838383.snakemake.log

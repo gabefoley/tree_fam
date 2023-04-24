@@ -1,0 +1,376 @@
+Building DAG of jobs...
+Relative file path './output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101007.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101001.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101006.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101010.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101005.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101008.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101003.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101009.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101002.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/GRASP_ancestors' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.aa.fasta' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101004.nh.emf' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count    min threads    max threads
+---------------  -------  -------------  -------------
+all                    1              1              1
+infer_ancestors       10              1              1
+total                 11              1              1
+
+Select jobs to execute...
+
+[Mon Apr 24 16:53:55 2023]
+rule infer_ancestors:
+    input: ./output/TF101001/TF101001.aa.fasta, ./output/TF101001/TF101001.nwk
+    output: ./output/TF101001/GRASP_ancestors, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 4
+    reason: Missing output files: ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101001
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 4
+    output: ./output/TF101001/GRASP_ancestors, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101001/TF101001.aa.fasta -n ./output/TF101001/TF101001.nwk -s LG -o ./output/TF101001/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101007/TF101007.aa.fasta, ./output/TF101007/TF101007.nwk
+    output: ./output/TF101007/GRASP_ancestors, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 1
+    reason: Missing output files: ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101007
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 1
+    output: ./output/TF101007/GRASP_ancestors, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101007/TF101007.aa.fasta -n ./output/TF101007/TF101007.nwk -s LG -o ./output/TF101007/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101005/TF101005.aa.fasta, ./output/TF101005/TF101005.nwk
+    output: ./output/TF101005/GRASP_ancestors, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 13
+    reason: Missing output files: ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101005
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 13
+    output: ./output/TF101005/GRASP_ancestors, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101005/TF101005.aa.fasta -n ./output/TF101005/TF101005.nwk -s LG -o ./output/TF101005/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101004/TF101004.aa.fasta, ./output/TF101004/TF101004.nwk
+    output: ./output/TF101004/GRASP_ancestors, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 28
+    reason: Missing output files: ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101004
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 28
+    output: ./output/TF101004/GRASP_ancestors, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101004/TF101004.aa.fasta -n ./output/TF101004/TF101004.nwk -s LG -o ./output/TF101004/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101002/TF101002.aa.fasta, ./output/TF101002/TF101002.nwk
+    output: ./output/TF101002/GRASP_ancestors, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 25
+    reason: Missing output files: ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101002
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 25
+    output: ./output/TF101002/GRASP_ancestors, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101002/TF101002.aa.fasta -n ./output/TF101002/TF101002.nwk -s LG -o ./output/TF101002/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101010/TF101010.aa.fasta, ./output/TF101010/TF101010.nwk
+    output: ./output/TF101010/GRASP_ancestors, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 10
+    reason: Missing output files: ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101010
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 10
+    output: ./output/TF101010/GRASP_ancestors, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101010/TF101010.aa.fasta -n ./output/TF101010/TF101010.nwk -s LG -o ./output/TF101010/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101009/TF101009.aa.fasta, ./output/TF101009/TF101009.nwk
+    output: ./output/TF101009/GRASP_ancestors, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 22
+    reason: Missing output files: ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101009
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 22
+    output: ./output/TF101009/GRASP_ancestors, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101009/TF101009.aa.fasta -n ./output/TF101009/TF101009.nwk -s LG -o ./output/TF101009/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101003/TF101003.aa.fasta, ./output/TF101003/TF101003.nwk
+    output: ./output/TF101003/GRASP_ancestors, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 19
+    reason: Missing output files: ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101003
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 19
+    output: ./output/TF101003/GRASP_ancestors, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101003/TF101003.aa.fasta -n ./output/TF101003/TF101003.nwk -s LG -o ./output/TF101003/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101008/TF101008.aa.fasta, ./output/TF101008/TF101008.nwk
+    output: ./output/TF101008/GRASP_ancestors, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 16
+    reason: Missing output files: ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101008
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 16
+    output: ./output/TF101008/GRASP_ancestors, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101008/TF101008.aa.fasta -n ./output/TF101008/TF101008.nwk -s LG -o ./output/TF101008/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Select jobs to execute...
+
+[Mon Apr 24 16:53:56 2023]
+rule infer_ancestors:
+    input: ./output/TF101006/TF101006.aa.fasta, ./output/TF101006/TF101006.nwk
+    output: ./output/TF101006/GRASP_ancestors, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.nwk
+    jobid: 7
+    reason: Missing output files: ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa
+    wildcards: dataset=TF101006
+    resources: tmpdir=/var/folders/xs/24s9hwqd191f2x7rhdy6_ryc0000gr/T
+
+[Mon Apr 24 16:53:56 2023]
+Error in rule infer_ancestors:
+    jobid: 7
+    output: ./output/TF101006/GRASP_ancestors, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.nwk
+    shell:
+        grasp -a ./output/TF101006/TF101006.aa.fasta -n ./output/TF101006/TF101006.nwk -s LG -o ./output/TF101006/GRASP_ancestors -i BEP -j --save-as FASTA TREE -pre GRASP -t 2
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Job failed, going on with independent jobs.
+Exiting because a job execution failed. Look above for error message
+BUG: Out of jobs ready to be started, but not all files built yet. Please check https://github.com/snakemake/snakemake/issues/823 for more information.
+Remaining jobs:
+ - infer_ancestors: ./output/TF101004/GRASP_ancestors, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101004/TF101004/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101007/GRASP_ancestors, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101007/TF101007/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101003/GRASP_ancestors, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101003/TF101003/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101006/GRASP_ancestors, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101006/TF101006/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101002/GRASP_ancestors, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101002/TF101002/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101005/GRASP_ancestors, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101005/TF101005/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101008/GRASP_ancestors, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101008/TF101008/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101001/GRASP_ancestors, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101001/TF101001/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101009/GRASP_ancestors, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101009/TF101009/GRASP_ancestors/GRASP_ancestors.nwk
+ - infer_ancestors: ./output/TF101010/GRASP_ancestors, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.fa, ./output/TF101010/TF101010/GRASP_ancestors/GRASP_ancestors.nwk
+ - all: 
+Complete log: .snakemake/log/2023-04-24T165355.852466.snakemake.log
