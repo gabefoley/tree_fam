@@ -1,0 +1,170 @@
+Building DAG of jobs...
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101003.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101003/TF101003.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101010.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101010/TF101010.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101006.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101006/TF101006.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101002.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101002/TF101002.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101001.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101001/TF101001.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101007.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101007/TF101007.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101005.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101005/TF101005.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101008.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101008/TF101008.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101004.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101004/TF101004.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/TF101009.phyloxml.xml' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './output/TF101009/TF101009.nwk' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job             count    min threads    max threads
+------------  -------  -------------  -------------
+all                 1              1              1
+convert_tree        9              1              1
+total              10              1              1
+
+
+[Mon Apr 24 13:53:14 2023]
+rule convert_tree:
+    input: ./data/TF101007.phyloxml.xml
+    output: ./output/TF101007/TF101007.nwk
+    jobid: 6
+    wildcards: dataset=TF101007
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:17 2023]
+Finished job 6.
+1 of 10 steps (10%) done
+
+[Mon Apr 24 13:53:17 2023]
+rule convert_tree:
+    input: ./data/TF101004.phyloxml.xml
+    output: ./output/TF101004/TF101004.nwk
+    jobid: 9
+    wildcards: dataset=TF101004
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:20 2023]
+Finished job 9.
+2 of 10 steps (20%) done
+
+[Mon Apr 24 13:53:20 2023]
+rule convert_tree:
+    input: ./data/TF101002.phyloxml.xml
+    output: ./output/TF101002/TF101002.nwk
+    jobid: 4
+    wildcards: dataset=TF101002
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:23 2023]
+Finished job 4.
+3 of 10 steps (30%) done
+
+[Mon Apr 24 13:53:23 2023]
+rule convert_tree:
+    input: ./data/TF101005.phyloxml.xml
+    output: ./output/TF101005/TF101005.nwk
+    jobid: 7
+    wildcards: dataset=TF101005
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:28 2023]
+Finished job 7.
+4 of 10 steps (40%) done
+
+[Mon Apr 24 13:53:28 2023]
+rule convert_tree:
+    input: ./data/TF101009.phyloxml.xml
+    output: ./output/TF101009/TF101009.nwk
+    jobid: 10
+    wildcards: dataset=TF101009
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:30 2023]
+Finished job 10.
+5 of 10 steps (50%) done
+
+[Mon Apr 24 13:53:30 2023]
+rule convert_tree:
+    input: ./data/TF101003.phyloxml.xml
+    output: ./output/TF101003/TF101003.nwk
+    jobid: 1
+    wildcards: dataset=TF101003
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:33 2023]
+Finished job 1.
+6 of 10 steps (60%) done
+
+[Mon Apr 24 13:53:33 2023]
+rule convert_tree:
+    input: ./data/TF101010.phyloxml.xml
+    output: ./output/TF101010/TF101010.nwk
+    jobid: 2
+    wildcards: dataset=TF101010
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:36 2023]
+Finished job 2.
+7 of 10 steps (70%) done
+
+[Mon Apr 24 13:53:36 2023]
+rule convert_tree:
+    input: ./data/TF101008.phyloxml.xml
+    output: ./output/TF101008/TF101008.nwk
+    jobid: 8
+    wildcards: dataset=TF101008
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:41 2023]
+Finished job 8.
+8 of 10 steps (80%) done
+
+[Mon Apr 24 13:53:41 2023]
+rule convert_tree:
+    input: ./data/TF101006.phyloxml.xml
+    output: ./output/TF101006/TF101006.nwk
+    jobid: 3
+    wildcards: dataset=TF101006
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:45 2023]
+Finished job 3.
+9 of 10 steps (90%) done
+
+[Mon Apr 24 13:53:45 2023]
+localrule all:
+    input: ./output/TF101003/TF101003.nwk, ./output/TF101010/TF101010.nwk, ./output/TF101006/TF101006.nwk, ./output/TF101002/TF101002.nwk, ./output/TF101001/TF101001.nwk, ./output/TF101001/TF101001.nwk, ./output/TF101007/TF101007.nwk, ./output/TF101010/TF101010.nwk, ./output/TF101007/TF101007.nwk, ./output/TF101005/TF101005.nwk, ./output/TF101003/TF101003.nwk, ./output/TF101008/TF101008.nwk, ./output/TF101002/TF101002.nwk, ./output/TF101006/TF101006.nwk, ./output/TF101004/TF101004.nwk, ./output/TF101009/TF101009.nwk, ./output/TF101009/TF101009.nwk, ./output/TF101005/TF101005.nwk, ./output/TF101004/TF101004.nwk, ./output/TF101008/TF101008.nwk
+    jobid: 0
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 13:53:45 2023]
+Finished job 0.
+10 of 10 steps (100%) done
+Complete log: /media/WorkingSpace/Share/plmphylo/tree_fam/.snakemake/log/2023-04-24T135314.830004.snakemake.log
