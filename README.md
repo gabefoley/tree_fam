@@ -14,19 +14,19 @@ Snakemake pipeline for making ancestors from data taken from Tree Fam
 1. Clone this repository to your desktop
 
 ```
-git clone https://github.com/gabefoley/lotsoftrees.git
+git clone https://github.com/gabefoley/tree_fam.git
 ```
 
 2. Create a conda environment
 
 ```
-conda create -n lots_of_trees python=3.10
+conda create -n tree_fam python=3.10
 ```
 
 3. Activate the conda environment
 
 ```
-conda activate asr_curation
+conda activate tree_fam
 ```
 
 4. Install the required Python packages

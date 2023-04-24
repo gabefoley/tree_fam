@@ -36,13 +36,13 @@ rule all:
             ancestors = [f"{OUTPUT_FOLDER}/{dataset}/{dataset}/GRASP_ancestors/GRASP_ancestors.fa" for dataset in DATASETS]
 
 # Create the initial annotation file from the FASTA file or list of IDs
-rule convert_alignment:
+rule copy_alignment:
     input:
-        DATA_FOLDER + "/{dataset}.aln.emf"
+        DATA_FOLDER + "/{dataset}.aa.fasta"
     output:
-        OUTPUT_FOLDER + "/{dataset}/{dataset}.aln"
+        OUTPUT_FOLDER + "/{dataset}/{dataset}.aa.fasta"
     shell:
-        "bioconvert clustal2fasta {input} {output}"
+        "cp {input} {output}"
 
 # Create the initial annotation file from the FASTA file or list of IDs
 rule convert_tree:
