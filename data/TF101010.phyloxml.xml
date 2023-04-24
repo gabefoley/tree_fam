@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phyloxml xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org">
+  <phylogeny rooted="true" type="gene tree">
+    <clade branch_length="0">
+      <taxonomy>
+        <id>2759</id>
+        <scientific_name>Eukaryota</scientific_name>
+      </taxonomy>
+      <clade branch_length="0.907176">
+        <confidence type="bootstrap">100</confidence>
+        <taxonomy>
+          <id>3702</id>
+          <scientific_name>Arabidopsis thaliana</scientific_name>
+        </taxonomy>
+        <events>
+          <type>speciation_or_duplication</type>
+          <duplications>1</duplications>
+        </events>
+        <clade branch_length="0.188436">
+          <name>AT4G19560</name>
+          <taxonomy>
+            <id>3702</id>
+            <scientific_name>Arabidopsis thaliana</scientific_name>
+          </taxonomy>
+          <sequence>
+            <accession source="compara">AT4G19560.1</accession>
+            <location>4:10661428-10664716</location>
+          </sequence>
+          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">arabidopsis_thaliana</property>
+        </clade>
+        <clade branch_length="0.176874">
+          <confidence type="bootstrap">100</confidence>
+          <taxonomy>
+            <id>3702</id>
+            <scientific_name>Arabidopsis thaliana</scientific_name>
+          </taxonomy>
+          <events>
+            <type>speciation_or_duplication</type>
+            <duplications>1</duplications>
+          </events>
+          <clade branch_length="0.102941">
+            <name>AT5G45190</name>
+            <taxonomy>
+              <id>3702</id>
+              <scientific_name>Arabidopsis thaliana</scientific_name>
+            </taxonomy>
+            <sequence>
+              <accession source="compara">AT5G45190.2</accession>
+              <location>5:18277620-18281875</location>
+            </sequence>
+            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">arabidopsis_thaliana</property>
+          </clade>
+          <clade branch_length="0.066049">
+            <name>AT4G19600</name>
+            <taxonomy>
+              <id>3702</id>
+              <scientific_name>Arabidopsis thaliana</scientific_name>
+            </taxonomy>
+            <sequence>
+              <accession source="compara">AT4G19600.1</accession>
+              <location>4:10672765-10676735</location>
+            </sequence>
+            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">arabidopsis_thaliana</property>
+          </clade>
+        </clade>
+      </clade>
+      <clade branch_length="0">
+        <confidence type="bootstrap">9</confidence>
+        <taxonomy>
+          <id>33208</id>
+          <scientific_name>Metazoa</scientific_name>
+        </taxonomy>
+        <events>
+          <type>speciation_or_duplication</type>
+          <duplications>1</duplications>
+        </events>
+        <clade branch_length="0">
+          <confidence type="bootstrap">11</confidence>
+          <taxonomy>
+            <id>33316</id>
+            <scientific_name>Coelomata</scientific_name>
+          </taxonomy>
+          <clade branch_length="1.33045">
+            <name>ENSONIG00000004456</name>
+            <taxonomy>
+              <id>8128</id>
+              <scientific_name>Oreochromis niloticus</scientific_name>
+            </taxonomy>
+            <sequence>
+              <accession source="compara">ENSONIP00000005610</accession>
+              <location>GL831155.1:2433345-2444057</location>
+            </sequence>
+            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">oreochromis_niloticus</property>
+          </clade>
+          <clade branch_length="9.02043">
+            <name>215790</name>
+            <taxonomy>
+              <id>225164</id>
+              <scientific_name>Lottia gigantea</scientific_name>
+            </taxonomy>
+            <sequence>
+              <accession source="compara">215790</accession>
+              <name>215790</name>
+              <location>:0-0</location>
+            </sequence>
+            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">lottia_gigantea</property>
+          </clade>
+        </clade>
+        <clade branch_length="0.187226">
+          <confidence type="bootstrap">7</confidence>
+          <taxonomy>
+            <id>33208</id>
+            <scientific_name>Metazoa</scientific_name>
+          </taxonomy>
+          <clade branch_length="0.487263">
+            <name>TriadG27302</name>
+            <taxonomy>
+              <id>10228</id>
+              <scientific_name>Trichoplax adhaerens</scientific_name>
+            </taxonomy>
+            <sequence>
+              <accession source="compara">TriadP27302</accession>
+              <location>scaffold_6:1220655-1222805</location>
+            </sequence>
+            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">trichoplax_adhaerens</property>
+          </clade>
+          <clade branch_length="0.088477">
+            <confidence type="bootstrap">2</confidence>
+            <taxonomy>
+              <id>33208</id>
+              <scientific_name>Metazoa</scientific_name>
+            </taxonomy>
+            <clade branch_length="0.698156">
+              <name>Aqu1.224584</name>
+              <taxonomy>
+                <id>400682</id>
+                <scientific_name>Amphimedon queenslandica</scientific_name>
+              </taxonomy>
+              <sequence>
+                <accession source="compara">PAC:15723112</accession>
+                <location>Contig13478:212022-214550</location>
+              </sequence>
+              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">amphimedon_queenslandica</property>
+            </clade>
+            <clade branch_length="0.14891">
+              <taxonomy>
+                <id>6072</id>
+                <scientific_name>Eumetazoa</scientific_name>
+              </taxonomy>
+              <clade branch_length="0.039638">
+                <taxonomy>
+                  <id>33213</id>
+                  <scientific_name>Bilateria</scientific_name>
+                </taxonomy>
+                <events>
+                  <type>speciation_or_duplication</type>
+                  <duplications>1</duplications>
+                </events>
+                <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                <clade branch_length="0.242683">
+                  <confidence type="bootstrap">50</confidence>
+                  <taxonomy>
+                    <id>6231</id>
+                    <scientific_name>Nematoda</scientific_name>
+                  </taxonomy>
+                  <clade branch_length="1.00353">
+                    <confidence type="bootstrap">27</confidence>
+                    <taxonomy>
+                      <id>6237</id>
+                      <scientific_name>Caenorhabditis</scientific_name>
+                    </taxonomy>
+                    <clade branch_length="0.160171">
+                      <name>CBG04574</name>
+                      <taxonomy>
+                        <id>473542</id>
+                        <scientific_name>Caenorhabditis briggsae AF16</scientific_name>
+                      </taxonomy>
+                      <sequence>
+                        <accession source="compara">CBG04574</accession>
+                        <location>chrV:14482084-14483011</location>
+                      </sequence>
+                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">caenorhabditis_briggsae</property>
+                    </clade>
+                    <clade branch_length="0.053887">
+                      <confidence type="bootstrap">13</confidence>
+                      <taxonomy>
+                        <id>6237</id>
+                        <scientific_name>Caenorhabditis</scientific_name>
+                      </taxonomy>
+                      <clade branch_length="0.065253">
+                        <confidence type="bootstrap">31</confidence>
+                        <taxonomy>
+                          <id>6237</id>
+                          <scientific_name>Caenorhabditis</scientific_name>
+                        </taxonomy>
+                        <clade branch_length="0.13663">
+                          <confidence type="bootstrap">100</confidence>
+                          <taxonomy>
+                            <id>135651</id>
+                            <scientific_name>Caenorhabditis brenneri</scientific_name>
+                          </taxonomy>
+                          <events>
+                            <type>speciation_or_duplication</type>
+                            <duplications>1</duplications>
+                          </events>
+                          <clade branch_length="0.00997">
+                            <name>CBN11384</name>
+                            <taxonomy>
+                              <id>135651</id>
+                              <scientific_name>Caenorhabditis brenneri</scientific_name>
+                            </taxonomy>
+                            <sequence>
+                              <accession source="compara">CBN11384</accession>
+                              <location>Cbre_Contig123:142421-143471</location>
+                            </sequence>
+                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">caenorhabditis_brenneri</property>
+                          </clade>
+                          <clade branch_length="0.001445">
+                            <name>CBN06299</name>
+                            <taxonomy>
+                              <id>135651</id>
+                              <scientific_name>Caenorhabditis brenneri</scientific_name>
+                            </taxonomy>
+                            <sequence>
+                              <accession source="compara">CBN06299</accession>
+                              <location>Cbre_Contig674:55884-56934</location>
+                            </sequence>
+                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">caenorhabditis_brenneri</property>
+                          </clade>
+                        </clade>
+                        <clade branch_length="0.22222">
+                          <name>F43D2.1</name>
+                          <taxonomy>
+                            <id>6239</id>
+                            <scientific_name>Caenorhabditis elegans</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">F43D2.1</accession>
+                            <location>V:14612423-14613694</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">caenorhabditis_elegans</property>
+                        </clade>
+                      </clade>
+                      <clade branch_length="0.166865">
+                        <name>CRE04997</name>
+                        <taxonomy>
+                          <id>31234</id>
+                          <scientific_name>Caenorhabditis remanei</scientific_name>
+                        </taxonomy>
+                        <sequence>
+                          <accession source="compara">CRE04997</accession>
+                          <location>Crem_Contig52:379473-380610</location>
+                        </sequence>
+                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">caenorhabditis_remanei</property>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade branch_length="0.715047">
+                    <name>EFV58254</name>
+                    <taxonomy>
+                      <id>6334</id>
+                      <scientific_name>Trichinella spiralis</scientific_name>
+                    </taxonomy>
+                    <sequence>
+                      <accession source="compara">EFV58254</accession>
+                      <location>GL622787:2769468-2776505</location>
+                    </sequence>
+                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">trichinella_spiralis</property>
+                  </clade>
+                </clade>
+                <clade branch_length="0.076325">
+                  <confidence type="bootstrap">3</confidence>
+                  <taxonomy>
+                    <id>33213</id>
+                    <scientific_name>Bilateria</scientific_name>
+                  </taxonomy>
+                  <clade branch_length="0.70006">
+                    <name>Smp_130980</name>
+                    <taxonomy>
+                      <id>6183</id>
+                      <scientific_name>Schistosoma mansoni</scientific_name>
+                    </taxonomy>
+                    <sequence>
+                      <accession source="compara">Smp_130980__mRNA</accession>
+                      <location>Smp_scaff000028:713605-722832</location>
+                    </sequence>
+                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">schistosoma_mansoni</property>
+                  </clade>
+                  <clade branch_length="0.092769">
+                    <confidence type="bootstrap">2</confidence>
+                    <taxonomy>
+                      <id>33316</id>
+                      <scientific_name>Coelomata</scientific_name>
+                    </taxonomy>
+                    <clade branch_length="0.001786">
+                      <confidence type="bootstrap">4</confidence>
+                      <taxonomy>
+                        <id>33317</id>
+                        <scientific_name>Protostomia</scientific_name>
+                      </taxonomy>
+                      <clade branch_length="0.153166">
+                        <confidence type="bootstrap">28</confidence>
+                        <taxonomy>
+                          <id>6340</id>
+                          <scientific_name>Annelida</scientific_name>
+                        </taxonomy>
+                        <clade branch_length="0.362571">
+                          <name>137456|e_gw1.183.34.1</name>
+                          <taxonomy>
+                            <id>283909</id>
+                            <scientific_name>Capitella teleta</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">137456|e_gw1.183.34.1</accession>
+                            <name>137456|e_gw1.183.34.1</name>
+                            <location>:0-0</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">capitella_teleta</property>
+                        </clade>
+                        <clade branch_length="0.286166">
+                          <confidence type="bootstrap">100</confidence>
+                          <taxonomy>
+                            <id>6412</id>
+                            <scientific_name>Helobdella robusta</scientific_name>
+                          </taxonomy>
+                          <events>
+                            <type>speciation_or_duplication</type>
+                            <duplications>1</duplications>
+                          </events>
+                          <clade branch_length="0.210129">
+                            <name>jgi|Helro1|68968</name>
+                            <taxonomy>
+                              <id>6412</id>
+                              <scientific_name>Helobdella robusta</scientific_name>
+                            </taxonomy>
+                            <sequence>
+                              <accession source="compara">jgi|Helro1|68968</accession>
+                              <name>jgi|Helro1|68968</name>
+                              <location>:0-0</location>
+                            </sequence>
+                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">helobdella_robusta</property>
+                          </clade>
+                          <clade branch_length="0.070713">
+                            <name>jgi|Helro1|107709</name>
+                            <taxonomy>
+                              <id>6412</id>
+                              <scientific_name>Helobdella robusta</scientific_name>
+                            </taxonomy>
+                            <sequence>
+                              <accession source="compara">jgi|Helro1|107709</accession>
+                              <name>jgi|Helro1|107709</name>
+                              <location>:0-0</location>
+                            </sequence>
+                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">helobdella_robusta</property>
+                          </clade>
+                        </clade>
+                      </clade>
+                      <clade branch_length="0.089436">
+                        <confidence type="bootstrap">4</confidence>
+                        <taxonomy>
+                          <id>6656</id>
+                          <scientific_name>Arthropoda</scientific_name>
+                        </taxonomy>
+                        <clade branch_length="0.452767">
+                          <name>ISCW018616</name>
+                          <taxonomy>
+                            <id>6945</id>
+                            <scientific_name>Ixodes scapularis</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">ISCW018616-PA</accession>
+                            <location>DS737013:363745-372324</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">ixodes_scapularis</property>
+                        </clade>
+                        <clade branch_length="0.092674">
+                          <taxonomy>
+                            <id>197562</id>
+                            <scientific_name>Pancrustacea</scientific_name>
+                          </taxonomy>
+                          <clade branch_length="0.073693">
+                            <taxonomy>
+                              <id>33340</id>
+                              <scientific_name>Neoptera</scientific_name>
+                            </taxonomy>
+                            <events>
+                              <type>speciation_or_duplication</type>
+                              <duplications>1</duplications>
+                            </events>
+                            <clade branch_length="0.022472">
+                              <taxonomy>
+                                <id>33392</id>
+                                <scientific_name>Endopterygota</scientific_name>
+                              </taxonomy>
+                              <clade branch_length="0.314454">
+                                <confidence type="bootstrap">99</confidence>
+                                <taxonomy>
+                                  <id>7147</id>
+                                  <scientific_name>Diptera</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.069049">
+                                  <confidence type="bootstrap">100</confidence>
+                                  <taxonomy>
+                                    <id>7157</id>
+                                    <scientific_name>Culicidae</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.072711">
+                                    <confidence type="bootstrap">100</confidence>
+                                    <taxonomy>
+                                      <id>7164</id>
+                                      <scientific_name>Anopheles</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.20456">
+                                      <name>ADAR010657</name>
+                                      <taxonomy>
+                                        <id>43151</id>
+                                        <scientific_name>Anopheles darlingi</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">ADAR010657-PA</accession>
+                                        <location>ADMH01003910:41035-44541</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">anopheles_darlingi</property>
+                                    </clade>
+                                    <clade branch_length="0.117781">
+                                      <name>AGAP008002</name>
+                                      <taxonomy>
+                                        <id>7165</id>
+                                        <scientific_name>Anopheles gambiae</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">AGAP008002-PA</accession>
+                                        <location>3R:3993602-3994789</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">anopheles_gambiae</property>
+                                    </clade>
+                                  </clade>
+                                  <clade branch_length="0.062472">
+                                    <confidence type="bootstrap">100</confidence>
+                                    <taxonomy>
+                                      <id>43817</id>
+                                      <scientific_name>Culicinae</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.093291">
+                                      <name>CPIJ801953</name>
+                                      <taxonomy>
+                                        <id>7176</id>
+                                        <scientific_name>Culex quinquefasciatus</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">CPIJ801953-PA</accession>
+                                        <location>supercont3.39:282969-284165</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">culex_quinquefasciatus</property>
+                                    </clade>
+                                    <clade branch_length="0.118658">
+                                      <name>AAEL013531</name>
+                                      <taxonomy>
+                                        <id>7159</id>
+                                        <scientific_name>Aedes aegypti</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">AAEL013531-PA</accession>
+                                        <location>supercont1.864:302918-304632</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">aedes_aegypti</property>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                                <clade branch_length="0.178068">
+                                  <confidence type="bootstrap">11</confidence>
+                                  <taxonomy>
+                                    <id>7215</id>
+                                    <scientific_name>Drosophila</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.04512">
+                                    <confidence type="bootstrap">49</confidence>
+                                    <taxonomy>
+                                      <id>7215</id>
+                                      <scientific_name>Drosophila</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.111119">
+                                      <name>FBgn0118463</name>
+                                      <taxonomy>
+                                        <id>7222</id>
+                                        <scientific_name>Drosophila grimshawi</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">FBpp0144888</accession>
+                                        <location>CH916368.1:2234537-2235841</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_grimshawi</property>
+                                    </clade>
+                                    <clade branch_length="0.065102">
+                                      <confidence type="bootstrap">100</confidence>
+                                      <taxonomy>
+                                        <id>32281</id>
+                                        <scientific_name>Drosophila</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.100665">
+                                        <name>FBgn0140238</name>
+                                        <taxonomy>
+                                          <id>7230</id>
+                                          <scientific_name>Drosophila mojavensis</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">FBpp0166711</accession>
+                                          <location>CH933807.1:12822429-12823744</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_mojavensis</property>
+                                      </clade>
+                                      <clade branch_length="0.060608">
+                                        <name>FBgn0202351</name>
+                                        <taxonomy>
+                                          <id>7244</id>
+                                          <scientific_name>Drosophila virilis</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">FBpp0229571</accession>
+                                          <location>CH940649.1:2625090-2626367</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_virilis</property>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                  <clade branch_length="0.021999">
+                                    <taxonomy>
+                                      <id>32341</id>
+                                      <scientific_name>Sophophora</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.03518">
+                                      <confidence type="bootstrap">5</confidence>
+                                      <taxonomy>
+                                        <id>32341</id>
+                                        <scientific_name>Sophophora</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.07456">
+                                        <confidence type="bootstrap">100</confidence>
+                                        <taxonomy>
+                                          <id>32358</id>
+                                          <scientific_name>pseudoobscura subgroup</scientific_name>
+                                        </taxonomy>
+                                        <clade branch_length="0.00382">
+                                          <name>FBgn0163838</name>
+                                          <taxonomy>
+                                            <id>7234</id>
+                                            <scientific_name>Drosophila persimilis</scientific_name>
+                                          </taxonomy>
+                                          <sequence>
+                                            <accession source="compara">FBpp0190363</accession>
+                                            <location>CH479184.1:6288408-6289681</location>
+                                          </sequence>
+                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_persimilis</property>
+                                        </clade>
+                                        <clade branch_length="0.003782">
+                                          <name>FBgn0073614</name>
+                                          <taxonomy>
+                                            <id>46245</id>
+                                            <scientific_name>Drosophila pseudoobscura pseudoobscura</scientific_name>
+                                          </taxonomy>
+                                          <sequence>
+                                            <accession source="compara">FBpp0285825</accession>
+                                            <location>4_group5:1882960-1884231</location>
+                                          </sequence>
+                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_pseudoobscura</property>
+                                        </clade>
+                                      </clade>
+                                      <clade branch_length="0.266645">
+                                        <name>FBgn0217356</name>
+                                        <taxonomy>
+                                          <id>7260</id>
+                                          <scientific_name>Drosophila willistoni</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">FBpp0244494</accession>
+                                          <location>CH963857.1:6932476-6933741</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_willistoni</property>
+                                      </clade>
+                                    </clade>
+                                    <clade branch_length="0.06493">
+                                      <confidence type="bootstrap">18</confidence>
+                                      <taxonomy>
+                                        <id>32346</id>
+                                        <scientific_name>melanogaster group</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.172448">
+                                        <name>FBgn0092411</name>
+                                        <taxonomy>
+                                          <id>7217</id>
+                                          <scientific_name>Drosophila ananassae</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">FBpp0118578</accession>
+                                          <location>CH902620.1:7806089-7807297</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_ananassae</property>
+                                      </clade>
+                                      <clade branch_length="0.159123">
+                                        <confidence type="bootstrap">90</confidence>
+                                        <taxonomy>
+                                          <id>32351</id>
+                                          <scientific_name>melanogaster subgroup</scientific_name>
+                                        </taxonomy>
+                                        <clade branch_length="0.007406">
+                                          <confidence type="bootstrap">90</confidence>
+                                          <taxonomy>
+                                            <id>32351</id>
+                                            <scientific_name>melanogaster subgroup</scientific_name>
+                                          </taxonomy>
+                                          <clade branch_length="0.023373">
+                                            <name>FBgn0113645</name>
+                                            <taxonomy>
+                                              <id>7220</id>
+                                              <scientific_name>Drosophila erecta</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">FBpp0140012</accession>
+                                              <location>CH954179.1:2289379-2290584</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_erecta</property>
+                                          </clade>
+                                          <clade branch_length="0.031577">
+                                            <confidence type="bootstrap">97</confidence>
+                                            <taxonomy>
+                                              <id>32351</id>
+                                              <scientific_name>melanogaster subgroup</scientific_name>
+                                            </taxonomy>
+                                            <clade branch_length="0.009606">
+                                              <name>FBgn0025674</name>
+                                              <taxonomy>
+                                                <id>7227</id>
+                                                <scientific_name>Drosophila melanogaster</scientific_name>
+                                              </taxonomy>
+                                              <sequence>
+                                                <accession source="compara">FBpp0085295</accession>
+                                                <location>2L:22128264-22130142</location>
+                                              </sequence>
+                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_melanogaster</property>
+                                            </clade>
+                                            <clade branch_length="0.01353">
+                                              <confidence type="bootstrap">97</confidence>
+                                              <taxonomy>
+                                                <id>32351</id>
+                                                <scientific_name>melanogaster subgroup</scientific_name>
+                                              </taxonomy>
+                                              <clade branch_length="0.008152">
+                                                <name>FBgn0193042</name>
+                                                <taxonomy>
+                                                  <id>7240</id>
+                                                  <scientific_name>Drosophila simulans</scientific_name>
+                                                </taxonomy>
+                                                <sequence>
+                                                  <accession source="compara">FBpp0220020</accession>
+                                                  <location>2L:21698424-21699626</location>
+                                                </sequence>
+                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_simulans</property>
+                                              </clade>
+                                              <clade branch_length="0.003622">
+                                                <name>FBgn0171031</name>
+                                                <taxonomy>
+                                                  <id>7238</id>
+                                                  <scientific_name>Drosophila sechellia</scientific_name>
+                                                </taxonomy>
+                                                <sequence>
+                                                  <accession source="compara">FBpp0197592</accession>
+                                                  <location>CH480843.1:737321-738523</location>
+                                                </sequence>
+                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_sechellia</property>
+                                              </clade>
+                                            </clade>
+                                          </clade>
+                                        </clade>
+                                        <clade branch_length="0.053454">
+                                          <name>FBgn0230680</name>
+                                          <taxonomy>
+                                            <id>7245</id>
+                                            <scientific_name>Drosophila yakuba</scientific_name>
+                                          </taxonomy>
+                                          <sequence>
+                                            <accession source="compara">FBpp0257978</accession>
+                                            <location>2R:496561-497769</location>
+                                          </sequence>
+                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">drosophila_yakuba</property>
+                                        </clade>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                              </clade>
+                              <clade branch_length="0.076425">
+                                <confidence type="bootstrap">5</confidence>
+                                <taxonomy>
+                                  <id>33392</id>
+                                  <scientific_name>Endopterygota</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.504794">
+                                  <name>NV12017</name>
+                                  <taxonomy>
+                                    <id>7425</id>
+                                    <scientific_name>Nasonia vitripennis</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">NV12017-PA</accession>
+                                    <location>SCAFFOLD6:2956840-2960417</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">nasonia_vitripennis</property>
+                                </clade>
+                                <clade branch_length="0.128455">
+                                  <confidence type="bootstrap">99</confidence>
+                                  <taxonomy>
+                                    <id>104431</id>
+                                    <scientific_name>Obtectomera</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.065585">
+                                    <confidence type="bootstrap">99</confidence>
+                                    <taxonomy>
+                                      <id>33415</id>
+                                      <scientific_name>Nymphalidae</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.205476">
+                                      <name>KGM_05838</name>
+                                      <taxonomy>
+                                        <id>13037</id>
+                                        <scientific_name>Danaus plexippus</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">EHJ77147</accession>
+                                        <location>JH381714:299199-300859</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">danaus_plexippus</property>
+                                    </clade>
+                                    <clade branch_length="0.165582">
+                                      <name>HMEL013549</name>
+                                      <taxonomy>
+                                        <id>34740</id>
+                                        <scientific_name>Heliconius melpomene</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">HMEL013549-PA</accession>
+                                        <location>HE671969:136751-141058</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">heliconius_melpomene</property>
+                                    </clade>
+                                  </clade>
+                                  <clade branch_length="0.197425">
+                                    <name>BGIBMGA011338</name>
+                                    <taxonomy>
+                                      <id>7091</id>
+                                      <scientific_name>Bombyx mori</scientific_name>
+                                    </taxonomy>
+                                    <sequence>
+                                      <accession source="compara">BGIBMGA011338-TA</accession>
+                                      <location>nscaf3026:2214754-2219749</location>
+                                    </sequence>
+                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">bombyx_mori</property>
+                                  </clade>
+                                </clade>
+                              </clade>
+                            </clade>
+                            <clade branch_length="0.067436">
+                              <taxonomy>
+                                <id>33340</id>
+                                <scientific_name>Neoptera</scientific_name>
+                              </taxonomy>
+                              <clade branch_length="0.055736">
+                                <confidence type="bootstrap">2</confidence>
+                                <taxonomy>
+                                  <id>33342</id>
+                                  <scientific_name>Paraneoptera</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.469789">
+                                  <name>ACYPI008437</name>
+                                  <taxonomy>
+                                    <id>7029</id>
+                                    <scientific_name>Acyrthosiphon pisum</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">ACYPI008437-PA</accession>
+                                    <location>EQ128507:2308-6814</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">acyrthosiphon_pisum</property>
+                                </clade>
+                                <clade branch_length="0.251572">
+                                  <name>PHUM488450</name>
+                                  <taxonomy>
+                                    <id>121224</id>
+                                    <scientific_name>Pediculus humanus corporis</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">PHUM488450-PA</accession>
+                                    <location>DS235822:201015-202783</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">pediculus_humanus</property>
+                                </clade>
+                              </clade>
+                              <clade branch_length="0.048466">
+                                <confidence type="bootstrap">21</confidence>
+                                <taxonomy>
+                                  <id>33392</id>
+                                  <scientific_name>Endopterygota</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.080916">
+                                  <confidence type="bootstrap">97</confidence>
+                                  <taxonomy>
+                                    <id>7400</id>
+                                    <scientific_name>Apocrita</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.210214">
+                                    <name>NV11590</name>
+                                    <taxonomy>
+                                      <id>7425</id>
+                                      <scientific_name>Nasonia vitripennis</scientific_name>
+                                    </taxonomy>
+                                    <sequence>
+                                      <accession source="compara">NV11590-PA</accession>
+                                      <location>SCAFFOLD4:5185955-5188701</location>
+                                    </sequence>
+                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">nasonia_vitripennis</property>
+                                  </clade>
+                                  <clade branch_length="0.053891">
+                                    <confidence type="bootstrap">98</confidence>
+                                    <taxonomy>
+                                      <id>7434</id>
+                                      <scientific_name>Aculeata</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.137277">
+                                      <name>GB15954</name>
+                                      <taxonomy>
+                                        <id>7460</id>
+                                        <scientific_name>Apis mellifera</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">GB15954-PA</accession>
+                                        <location>Group5.12:78710-80407</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">apis_mellifera</property>
+                                    </clade>
+                                    <clade branch_length="0.149182">
+                                      <name>ACEP_00015490</name>
+                                      <taxonomy>
+                                        <id>12957</id>
+                                        <scientific_name>Atta cephalotes</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">ACEP_00015490-PA</accession>
+                                        <location>scaffold00081:388373-390518</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">atta_cephalotes</property>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                                <clade branch_length="0.411331">
+                                  <name>TCOGS2:TC000577</name>
+                                  <taxonomy>
+                                    <id>7070</id>
+                                    <scientific_name>Tribolium castaneum</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">TCOGS2:TC000577-PA</accession>
+                                    <location>ChLG2:11830503-11831736</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">tribolium_castaneum</property>
+                                </clade>
+                              </clade>
+                            </clade>
+                          </clade>
+                          <clade branch_length="0.263626">
+                            <name>DappuG189442</name>
+                            <taxonomy>
+                              <id>6669</id>
+                              <scientific_name>Daphnia pulex</scientific_name>
+                            </taxonomy>
+                            <sequence>
+                              <accession source="compara">DappuP189442</accession>
+                              <location>scaffold_131:211339-213192</location>
+                            </sequence>
+                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">daphnia_pulex</property>
+                          </clade>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade branch_length="0.09004">
+                      <confidence type="bootstrap">22</confidence>
+                      <taxonomy>
+                        <id>33511</id>
+                        <scientific_name>Deuterostomia</scientific_name>
+                      </taxonomy>
+                      <clade branch_length="0.216632">
+                        <confidence type="bootstrap">5</confidence>
+                        <taxonomy>
+                          <id>7742</id>
+                          <scientific_name>Vertebrata</scientific_name>
+                        </taxonomy>
+                        <clade branch_length="0.048578">
+                          <confidence type="bootstrap">5</confidence>
+                          <taxonomy>
+                            <id>117571</id>
+                            <scientific_name>Euteleostomi</scientific_name>
+                          </taxonomy>
+                          <clade branch_length="0.061683">
+                            <confidence type="bootstrap">33</confidence>
+                            <taxonomy>
+                              <id>8287</id>
+                              <scientific_name>Sarcopterygii</scientific_name>
+                            </taxonomy>
+                            <events>
+                              <type>speciation_or_duplication</type>
+                              <duplications>1</duplications>
+                            </events>
+                            <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                            <clade branch_length="0.051349">
+                              <name>ENSEEUG00000006421</name>
+                              <taxonomy>
+                                <id>9365</id>
+                                <scientific_name>Erinaceus europaeus</scientific_name>
+                              </taxonomy>
+                              <sequence>
+                                <accession source="compara">ENSEEUP00000005858</accession>
+                                <location>GeneScaffold_1136:1133-12234</location>
+                              </sequence>
+                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">erinaceus_europaeus</property>
+                            </clade>
+                            <clade branch_length="0.112306">
+                              <confidence type="bootstrap">12</confidence>
+                              <taxonomy>
+                                <id>8287</id>
+                                <scientific_name>Sarcopterygii</scientific_name>
+                              </taxonomy>
+                              <clade branch_length="0.047297">
+                                <confidence type="bootstrap">10</confidence>
+                                <taxonomy>
+                                  <id>32523</id>
+                                  <scientific_name>Tetrapoda</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.177695">
+                                  <name>ENSXETG00000011438</name>
+                                  <taxonomy>
+                                    <id>8364</id>
+                                    <scientific_name>Xenopus tropicalis</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">ENSXETP00000024974</accession>
+                                    <location>GL173155.1:471646-486802</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">xenopus_tropicalis</property>
+                                </clade>
+                                <clade branch_length="0.042505">
+                                  <confidence type="bootstrap">21</confidence>
+                                  <taxonomy>
+                                    <id>32524</id>
+                                    <scientific_name>Amniota</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.040186">
+                                    <taxonomy>
+                                      <id>40674</id>
+                                      <scientific_name>Mammalia</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.007303">
+                                      <taxonomy>
+                                        <id>32525</id>
+                                        <scientific_name>Theria</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.063902">
+                                        <confidence type="bootstrap">3</confidence>
+                                        <taxonomy>
+                                          <id>9347</id>
+                                          <scientific_name>Eutheria</scientific_name>
+                                        </taxonomy>
+                                        <events>
+                                          <type>speciation_or_duplication</type>
+                                          <duplications>1</duplications>
+                                        </events>
+                                        <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                                        <clade branch_length="0.012387">
+                                          <confidence type="bootstrap">1</confidence>
+                                          <taxonomy>
+                                            <id>9347</id>
+                                            <scientific_name>Eutheria</scientific_name>
+                                          </taxonomy>
+                                          <clade branch_length="0.020976">
+                                            <confidence type="bootstrap">10</confidence>
+                                            <taxonomy>
+                                              <id>9347</id>
+                                              <scientific_name>Eutheria</scientific_name>
+                                            </taxonomy>
+                                            <clade branch_length="0.016995">
+                                              <confidence type="bootstrap">81</confidence>
+                                              <taxonomy>
+                                                <id>311790</id>
+                                                <scientific_name>Afrotheria</scientific_name>
+                                              </taxonomy>
+                                              <clade branch_length="0.030661">
+                                                <confidence type="bootstrap">99</confidence>
+                                                <taxonomy>
+                                                  <id>9813</id>
+                                                  <scientific_name>Procavia capensis</scientific_name>
+                                                </taxonomy>
+                                                <events>
+                                                  <type>speciation_or_duplication</type>
+                                                  <duplications>1</duplications>
+                                                </events>
+                                                <clade branch_length="0.053654">
+                                                  <name>ENSPCAG00000016449</name>
+                                                  <taxonomy>
+                                                    <id>9813</id>
+                                                    <scientific_name>Procavia capensis</scientific_name>
+                                                  </taxonomy>
+                                                  <sequence>
+                                                    <accession source="compara">ENSPCAP00000015394</accession>
+                                                    <location>GeneScaffold_7686:8542-24367</location>
+                                                  </sequence>
+                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">procavia_capensis</property>
+                                                </clade>
+                                                <clade branch_length="0.024106">
+                                                  <name>ENSPCAG00000003454</name>
+                                                  <taxonomy>
+                                                    <id>9813</id>
+                                                    <scientific_name>Procavia capensis</scientific_name>
+                                                  </taxonomy>
+                                                  <sequence>
+                                                    <accession source="compara">ENSPCAP00000003247</accession>
+                                                    <location>scaffold_27948:10955-22533</location>
+                                                  </sequence>
+                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">procavia_capensis</property>
+                                                </clade>
+                                              </clade>
+                                              <clade branch_length="0.038754">
+                                                <name>ENSLAFG00000027530</name>
+                                                <taxonomy>
+                                                  <id>9785</id>
+                                                  <scientific_name>Loxodonta africana</scientific_name>
+                                                </taxonomy>
+                                                <sequence>
+                                                  <accession source="compara">ENSLAFP00000022604</accession>
+                                                  <location>scaffold_9:77123270-77139023</location>
+                                                </sequence>
+                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">loxodonta_africana</property>
+                                              </clade>
+                                            </clade>
+                                            <clade branch_length="0.09941">
+                                              <name>ENSSARG00000005395</name>
+                                              <taxonomy>
+                                                <id>42254</id>
+                                                <scientific_name>Sorex araneus</scientific_name>
+                                              </taxonomy>
+                                              <sequence>
+                                                <accession source="compara">ENSSARP00000004863</accession>
+                                                <location>scaffold_240281:20802-29304</location>
+                                              </sequence>
+                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">sorex_araneus</property>
+                                            </clade>
+                                          </clade>
+                                          <clade branch_length="0.021249">
+                                            <confidence type="bootstrap">81</confidence>
+                                            <taxonomy>
+                                              <id>9975</id>
+                                              <scientific_name>Lagomorpha</scientific_name>
+                                            </taxonomy>
+                                            <clade branch_length="0.043267">
+                                              <name>ENSOCUG00000000682</name>
+                                              <taxonomy>
+                                                <id>9986</id>
+                                                <scientific_name>Oryctolagus cuniculus</scientific_name>
+                                              </taxonomy>
+                                              <sequence>
+                                                <accession source="compara">ENSOCUP00000000592</accession>
+                                                <location>GL018761:147036-165285</location>
+                                              </sequence>
+                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">oryctolagus_cuniculus</property>
+                                            </clade>
+                                            <clade branch_length="0.051101">
+                                              <name>ENSOPRG00000012654</name>
+                                              <taxonomy>
+                                                <id>9978</id>
+                                                <scientific_name>Ochotona princeps</scientific_name>
+                                              </taxonomy>
+                                              <sequence>
+                                                <accession source="compara">ENSOPRP00000011559</accession>
+                                                <location>GeneScaffold_4562:113127-126331</location>
+                                              </sequence>
+                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">ochotona_princeps</property>
+                                            </clade>
+                                          </clade>
+                                        </clade>
+                                        <clade branch_length="0.013763">
+                                          <taxonomy>
+                                            <id>9347</id>
+                                            <scientific_name>Eutheria</scientific_name>
+                                          </taxonomy>
+                                          <events>
+                                            <type>speciation_or_duplication</type>
+                                            <duplications>1</duplications>
+                                          </events>
+                                          <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                                          <clade branch_length="0.00701">
+                                            <confidence type="bootstrap">2</confidence>
+                                            <taxonomy>
+                                              <id>9347</id>
+                                              <scientific_name>Eutheria</scientific_name>
+                                            </taxonomy>
+                                            <clade branch_length="0.000771">
+                                              <confidence type="bootstrap">4</confidence>
+                                              <taxonomy>
+                                                <id>9347</id>
+                                                <scientific_name>Eutheria</scientific_name>
+                                              </taxonomy>
+                                              <events>
+                                                <type>speciation_or_duplication</type>
+                                                <duplications>1</duplications>
+                                              </events>
+                                              <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                                              <clade branch_length="0.005672">
+                                                <taxonomy>
+                                                  <id>9347</id>
+                                                  <scientific_name>Eutheria</scientific_name>
+                                                </taxonomy>
+                                                <clade branch_length="0.020313">
+                                                  <confidence type="bootstrap">64</confidence>
+                                                  <taxonomy>
+                                                    <id>9348</id>
+                                                    <scientific_name>Xenarthra</scientific_name>
+                                                  </taxonomy>
+                                                  <clade branch_length="0.020459">
+                                                    <name>ENSCHOG00000004484</name>
+                                                    <taxonomy>
+                                                      <id>9358</id>
+                                                      <scientific_name>Choloepus hoffmanni</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSCHOP00000003967</accession>
+                                                      <location>GeneScaffold_1070:1939-34142</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">choloepus_hoffmanni</property>
+                                                  </clade>
+                                                  <clade branch_length="0.023103">
+                                                    <name>ENSDNOG00000023960</name>
+                                                    <taxonomy>
+                                                      <id>9361</id>
+                                                      <scientific_name>Dasypus novemcinctus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSDNOP00000015683</accession>
+                                                      <location>GeneScaffold_6363:145330-166302</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">dasypus_novemcinctus</property>
+                                                  </clade>
+                                                </clade>
+                                                <clade branch_length="0">
+                                                  <taxonomy>
+                                                    <id>314146</id>
+                                                    <scientific_name>Euarchontoglires</scientific_name>
+                                                  </taxonomy>
+                                                  <events>
+                                                    <type>speciation_or_duplication</type>
+                                                    <duplications>1</duplications>
+                                                  </events>
+                                                  <property datatype="xsd:int" ref="Compara:dubious_duplication" applies_to="clade">dubious_duplication</property>
+                                                  <clade branch_length="0.091215">
+                                                    <name>ENSCJAG00000006738</name>
+                                                    <taxonomy>
+                                                      <id>9483</id>
+                                                      <scientific_name>Callithrix jacchus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSCJAP00000012482</accession>
+                                                      <location>10:125314025-125356931</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">callithrix_jacchus</property>
+                                                  </clade>
+                                                  <clade branch_length="0.002228">
+                                                    <confidence type="bootstrap">6</confidence>
+                                                    <taxonomy>
+                                                      <id>314146</id>
+                                                      <scientific_name>Euarchontoglires</scientific_name>
+                                                    </taxonomy>
+                                                    <clade branch_length="0.003213">
+                                                      <confidence type="bootstrap">61</confidence>
+                                                      <taxonomy>
+                                                        <id>9443</id>
+                                                        <scientific_name>Primates</scientific_name>
+                                                      </taxonomy>
+                                                      <clade branch_length="0.016517">
+                                                        <confidence type="bootstrap">74</confidence>
+                                                        <taxonomy>
+                                                          <id>9526</id>
+                                                          <scientific_name>Catarrhini</scientific_name>
+                                                        </taxonomy>
+                                                        <clade branch_length="0.018996">
+                                                          <name>ENSMMUG00000001201</name>
+                                                          <taxonomy>
+                                                            <id>9544</id>
+                                                            <scientific_name>Macaca mulatta</scientific_name>
+                                                          </taxonomy>
+                                                          <sequence>
+                                                            <accession source="compara">ENSMMUP00000001606</accession>
+                                                            <location>7:162765659-162774920</location>
+                                                          </sequence>
+                                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">macaca_mulatta</property>
+                                                        </clade>
+                                                        <clade branch_length="0.002789">
+                                                          <confidence type="bootstrap">12</confidence>
+                                                          <taxonomy>
+                                                            <id>314295</id>
+                                                            <scientific_name>Hominoidea</scientific_name>
+                                                          </taxonomy>
+                                                          <clade branch_length="0">
+                                                            <confidence type="bootstrap">12</confidence>
+                                                            <taxonomy>
+                                                              <id>9604</id>
+                                                              <scientific_name>Hominidae</scientific_name>
+                                                            </taxonomy>
+                                                            <clade branch_length="0.005892">
+                                                              <confidence type="bootstrap">73</confidence>
+                                                              <taxonomy>
+                                                                <id>207598</id>
+                                                                <scientific_name>Homininae</scientific_name>
+                                                              </taxonomy>
+                                                              <clade branch_length="0.002349">
+                                                                <name>ENSPTRG00000006709</name>
+                                                                <taxonomy>
+                                                                  <id>9598</id>
+                                                                  <scientific_name>Pan troglodytes</scientific_name>
+                                                                </taxonomy>
+                                                                <sequence>
+                                                                  <accession source="compara">ENSPTRP00000052500</accession>
+                                                                  <location>14:99154049-99184321</location>
+                                                                </sequence>
+                                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">pan_troglodytes</property>
+                                                              </clade>
+                                                              <clade branch_length="0">
+                                                                <confidence type="bootstrap">74</confidence>
+                                                                <taxonomy>
+                                                                  <id>207598</id>
+                                                                  <scientific_name>Homininae</scientific_name>
+                                                                </taxonomy>
+                                                                <clade branch_length="0">
+                                                                  <name>ENSG00000090061</name>
+                                                                  <taxonomy>
+                                                                    <id>9606</id>
+                                                                    <scientific_name>Homo sapiens</scientific_name>
+                                                                  </taxonomy>
+                                                                  <sequence>
+                                                                    <accession source="compara">ENSP00000374529</accession>
+                                                                    <location>14:99947506-100001381</location>
+                                                                  </sequence>
+                                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">homo_sapiens</property>
+                                                                </clade>
+                                                                <clade branch_length="0.001172">
+                                                                  <name>ENSGGOG00000013038</name>
+                                                                  <taxonomy>
+                                                                    <id>9593</id>
+                                                                    <scientific_name>Gorilla gorilla</scientific_name>
+                                                                  </taxonomy>
+                                                                  <sequence>
+                                                                    <accession source="compara">ENSGGOP00000012720</accession>
+                                                                    <location>14:81423591-81441188</location>
+                                                                  </sequence>
+                                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gorilla_gorilla</property>
+                                                                </clade>
+                                                              </clade>
+                                                            </clade>
+                                                            <clade branch_length="0.004708">
+                                                              <name>ENSPPYG00000029469</name>
+                                                              <taxonomy>
+                                                                <id>9601</id>
+                                                                <scientific_name>Pongo abelii</scientific_name>
+                                                              </taxonomy>
+                                                              <sequence>
+                                                                <accession source="compara">ENSPPYP00000023827</accession>
+                                                                <location>14:100995863-101030480</location>
+                                                              </sequence>
+                                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">pongo_abelii</property>
+                                                            </clade>
+                                                          </clade>
+                                                          <clade branch_length="0.003536">
+                                                            <name>ENSNLEG00000000753</name>
+                                                            <taxonomy>
+                                                              <id>61853</id>
+                                                              <scientific_name>Nomascus leucogenys</scientific_name>
+                                                            </taxonomy>
+                                                            <sequence>
+                                                              <accession source="compara">ENSNLEP00000000906</accession>
+                                                              <location>GL397377.1:4341716-4374012</location>
+                                                            </sequence>
+                                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">nomascus_leucogenys</property>
+                                                          </clade>
+                                                        </clade>
+                                                      </clade>
+                                                      <clade branch_length="0.00243">
+                                                        <confidence type="bootstrap">95</confidence>
+                                                        <taxonomy>
+                                                          <id>376911</id>
+                                                          <scientific_name>Strepsirrhini</scientific_name>
+                                                        </taxonomy>
+                                                        <clade branch_length="0.026744">
+                                                          <name>ENSMICG00000015079</name>
+                                                          <taxonomy>
+                                                            <id>30608</id>
+                                                            <scientific_name>Microcebus murinus</scientific_name>
+                                                          </taxonomy>
+                                                          <sequence>
+                                                            <accession source="compara">ENSMICP00000013757</accession>
+                                                            <location>GeneScaffold_4037:163995-180986</location>
+                                                          </sequence>
+                                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">microcebus_murinus</property>
+                                                        </clade>
+                                                        <clade branch_length="0.016157">
+                                                          <name>ENSOGAG00000003409</name>
+                                                          <taxonomy>
+                                                            <id>30611</id>
+                                                            <scientific_name>Otolemur garnettii</scientific_name>
+                                                          </taxonomy>
+                                                          <sequence>
+                                                            <accession source="compara">ENSOGAP00000003041</accession>
+                                                            <location>GL873539.1:25312602-25329008</location>
+                                                          </sequence>
+                                                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">otolemur_garnettii</property>
+                                                        </clade>
+                                                      </clade>
+                                                    </clade>
+                                                    <clade branch_length="0.047152">
+                                                      <name>ENSTBEG00000017029</name>
+                                                      <taxonomy>
+                                                        <id>37347</id>
+                                                        <scientific_name>Tupaia belangeri</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSTBEP00000014813</accession>
+                                                        <location>GeneScaffold_696:4637-17735</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">tupaia_belangeri</property>
+                                                    </clade>
+                                                  </clade>
+                                                </clade>
+                                              </clade>
+                                              <clade branch_length="0.033761">
+                                                <name>ENSSTOG00000028286</name>
+                                                <taxonomy>
+                                                  <id>43179</id>
+                                                  <scientific_name>Ictidomys tridecemlineatus</scientific_name>
+                                                </taxonomy>
+                                                <sequence>
+                                                  <accession source="compara">ENSSTOP00000019372</accession>
+                                                  <location>JH393414.1:3298241-3315786</location>
+                                                </sequence>
+                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">ictidomys_tridecemlineatus</property>
+                                              </clade>
+                                            </clade>
+                                            <clade branch_length="0.021117">
+                                              <confidence type="bootstrap">4</confidence>
+                                              <taxonomy>
+                                                <id>314145</id>
+                                                <scientific_name>Laurasiatheria</scientific_name>
+                                              </taxonomy>
+                                              <clade branch_length="0.001482">
+                                                <confidence type="bootstrap">12</confidence>
+                                                <taxonomy>
+                                                  <id>314145</id>
+                                                  <scientific_name>Laurasiatheria</scientific_name>
+                                                </taxonomy>
+                                                <clade branch_length="0.011387">
+                                                  <confidence type="bootstrap">93</confidence>
+                                                  <taxonomy>
+                                                    <id>9397</id>
+                                                    <scientific_name>Chiroptera</scientific_name>
+                                                  </taxonomy>
+                                                  <clade branch_length="0.022392">
+                                                    <confidence type="bootstrap">100</confidence>
+                                                    <taxonomy>
+                                                      <id>59463</id>
+                                                      <scientific_name>Myotis lucifugus</scientific_name>
+                                                    </taxonomy>
+                                                    <events>
+                                                      <type>speciation_or_duplication</type>
+                                                      <duplications>1</duplications>
+                                                    </events>
+                                                    <clade branch_length="0.0033">
+                                                      <name>ENSMLUG00000012493</name>
+                                                      <taxonomy>
+                                                        <id>59463</id>
+                                                        <scientific_name>Myotis lucifugus</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSMLUP00000011373</accession>
+                                                        <location>GL430792:10208-24587</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">myotis_lucifugus</property>
+                                                    </clade>
+                                                    <clade branch_length="0.009756">
+                                                      <name>ENSMLUG00000028492</name>
+                                                      <taxonomy>
+                                                        <id>59463</id>
+                                                        <scientific_name>Myotis lucifugus</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSMLUP00000019709</accession>
+                                                        <location>GL429882:1504184-1505917</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">myotis_lucifugus</property>
+                                                    </clade>
+                                                  </clade>
+                                                  <clade branch_length="0.026289">
+                                                    <name>ENSPVAG00000007430</name>
+                                                    <taxonomy>
+                                                      <id>132908</id>
+                                                      <scientific_name>Pteropus vampyrus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSPVAP00000007012</accession>
+                                                      <location>GeneScaffold_3443:149485-161895</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">pteropus_vampyrus</property>
+                                                  </clade>
+                                                </clade>
+                                                <clade branch_length="0.013424">
+                                                  <confidence type="bootstrap">83</confidence>
+                                                  <taxonomy>
+                                                    <id>33554</id>
+                                                    <scientific_name>Carnivora</scientific_name>
+                                                  </taxonomy>
+                                                  <clade branch_length="0.0049">
+                                                    <confidence type="bootstrap">95</confidence>
+                                                    <taxonomy>
+                                                      <id>379584</id>
+                                                      <scientific_name>Caniformia</scientific_name>
+                                                    </taxonomy>
+                                                    <clade branch_length="0.017871">
+                                                      <name>ENSCAFG00000017831</name>
+                                                      <taxonomy>
+                                                        <id>9615</id>
+                                                        <scientific_name>Canis familiaris</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSCAFP00000026305</accession>
+                                                        <location>8:67910772-67926491</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">canis_familiaris</property>
+                                                    </clade>
+                                                    <clade branch_length="0.027171">
+                                                      <name>ENSMPUG00000003019</name>
+                                                      <taxonomy>
+                                                        <id>9669</id>
+                                                        <scientific_name>Mustela putorius furo</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSMPUP00000002989</accession>
+                                                        <location>GL896944.1:4423501-4450473</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">mustela_putorius_furo</property>
+                                                    </clade>
+                                                  </clade>
+                                                  <clade branch_length="0.029857">
+                                                    <name>ENSFCAG00000001110</name>
+                                                    <taxonomy>
+                                                      <id>9685</id>
+                                                      <scientific_name>Felis catus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSFCAP00000001030</accession>
+                                                      <location>GeneScaffold_4309:250821-270517</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">felis_catus</property>
+                                                  </clade>
+                                                </clade>
+                                              </clade>
+                                              <clade branch_length="0.003385">
+                                                <confidence type="bootstrap">10</confidence>
+                                                <taxonomy>
+                                                  <id>314145</id>
+                                                  <scientific_name>Laurasiatheria</scientific_name>
+                                                </taxonomy>
+                                                <clade branch_length="0.027557">
+                                                  <name>ENSECAG00000018765</name>
+                                                  <taxonomy>
+                                                    <id>9796</id>
+                                                    <scientific_name>Equus caballus</scientific_name>
+                                                  </taxonomy>
+                                                  <sequence>
+                                                    <accession source="compara">ENSECAP00000016462</accession>
+                                                    <location>24:41550361-41571400</location>
+                                                  </sequence>
+                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">equus_caballus</property>
+                                                </clade>
+                                                <clade branch_length="0.012359">
+                                                  <confidence type="bootstrap">31</confidence>
+                                                  <taxonomy>
+                                                    <id>91561</id>
+                                                    <scientific_name>Cetartiodactyla</scientific_name>
+                                                  </taxonomy>
+                                                  <clade branch_length="0.00304">
+                                                    <confidence type="bootstrap">50</confidence>
+                                                    <taxonomy>
+                                                      <id>91561</id>
+                                                      <scientific_name>Cetartiodactyla</scientific_name>
+                                                    </taxonomy>
+                                                    <clade branch_length="0.041322">
+                                                      <name>ENSSSCG00000002509</name>
+                                                      <taxonomy>
+                                                        <id>9823</id>
+                                                        <scientific_name>Sus scrofa</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSSSCP00000002716</accession>
+                                                        <location>7:128045533-128128114</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">sus_scrofa</property>
+                                                    </clade>
+                                                    <clade branch_length="0.025498">
+                                                      <name>ENSVPAG00000009319</name>
+                                                      <taxonomy>
+                                                        <id>30538</id>
+                                                        <scientific_name>Vicugna pacos</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSVPAP00000008671</accession>
+                                                        <location>GeneScaffold_3128:118318-131557</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">vicugna_pacos</property>
+                                                    </clade>
+                                                  </clade>
+                                                  <clade branch_length="0.013467">
+                                                    <confidence type="bootstrap">60</confidence>
+                                                    <taxonomy>
+                                                      <id>91561</id>
+                                                      <scientific_name>Cetartiodactyla</scientific_name>
+                                                    </taxonomy>
+                                                    <clade branch_length="0.016912">
+                                                      <name>ENSTTRG00000017133</name>
+                                                      <taxonomy>
+                                                        <id>9739</id>
+                                                        <scientific_name>Tursiops truncatus</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSTTRP00000016239</accession>
+                                                        <location>GeneScaffold_3068:100403-114589</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">tursiops_truncatus</property>
+                                                    </clade>
+                                                    <clade branch_length="0.042625">
+                                                      <name>ENSBTAG00000018636</name>
+                                                      <taxonomy>
+                                                        <id>9913</id>
+                                                        <scientific_name>Bos taurus</scientific_name>
+                                                      </taxonomy>
+                                                      <sequence>
+                                                        <accession source="compara">ENSBTAP00000055600</accession>
+                                                        <location>21:66159547-66174627</location>
+                                                      </sequence>
+                                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">bos_taurus</property>
+                                                    </clade>
+                                                  </clade>
+                                                </clade>
+                                              </clade>
+                                            </clade>
+                                          </clade>
+                                          <clade branch_length="0">
+                                            <taxonomy>
+                                              <id>314146</id>
+                                              <scientific_name>Euarchontoglires</scientific_name>
+                                            </taxonomy>
+                                            <clade branch_length="0.00758">
+                                              <taxonomy>
+                                                <id>9989</id>
+                                                <scientific_name>Rodentia</scientific_name>
+                                              </taxonomy>
+                                              <clade branch_length="0.007809">
+                                                <confidence type="bootstrap">10</confidence>
+                                                <taxonomy>
+                                                  <id>33553</id>
+                                                  <scientific_name>Sciurognathi</scientific_name>
+                                                </taxonomy>
+                                                <clade branch_length="0.05664">
+                                                  <confidence type="bootstrap">100</confidence>
+                                                  <taxonomy>
+                                                    <id>39107</id>
+                                                    <scientific_name>Murinae</scientific_name>
+                                                  </taxonomy>
+                                                  <clade branch_length="0.015949">
+                                                    <name>ENSMUSG00000021258</name>
+                                                    <taxonomy>
+                                                      <id>10090</id>
+                                                      <scientific_name>Mus musculus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSMUSP00000098616</accession>
+                                                      <location>12:108179738-108203359</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">mus_musculus</property>
+                                                  </clade>
+                                                  <clade branch_length="0.016545">
+                                                    <name>ENSRNOG00000006985</name>
+                                                    <taxonomy>
+                                                      <id>10116</id>
+                                                      <scientific_name>Rattus norvegicus</scientific_name>
+                                                    </taxonomy>
+                                                    <sequence>
+                                                      <accession source="compara">ENSRNOP00000053998</accession>
+                                                      <location>6:132547058-132569678</location>
+                                                    </sequence>
+                                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">rattus_norvegicus</property>
+                                                  </clade>
+                                                </clade>
+                                                <clade branch_length="0.044688">
+                                                  <name>ENSDORG00000015376</name>
+                                                  <taxonomy>
+                                                    <id>10020</id>
+                                                    <scientific_name>Dipodomys ordii</scientific_name>
+                                                  </taxonomy>
+                                                  <sequence>
+                                                    <accession source="compara">ENSDORP00000014470</accession>
+                                                    <location>GeneScaffold_898:7797-23523</location>
+                                                  </sequence>
+                                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">dipodomys_ordii</property>
+                                                </clade>
+                                              </clade>
+                                              <clade branch_length="0.055331">
+                                                <name>ENSCPOG00000002148</name>
+                                                <taxonomy>
+                                                  <id>10141</id>
+                                                  <scientific_name>Cavia porcellus</scientific_name>
+                                                </taxonomy>
+                                                <sequence>
+                                                  <accession source="compara">ENSCPOP00000001945</accession>
+                                                  <location>scaffold_114:3556333-3571062</location>
+                                                </sequence>
+                                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">cavia_porcellus</property>
+                                              </clade>
+                                            </clade>
+                                            <clade branch_length="0.054537">
+                                              <name>ENSTSYG00000005548</name>
+                                              <taxonomy>
+                                                <id>9478</id>
+                                                <scientific_name>Tarsius syrichta</scientific_name>
+                                              </taxonomy>
+                                              <sequence>
+                                                <accession source="compara">ENSTSYP00000005069</accession>
+                                                <location>scaffold_20364:10188-23262</location>
+                                              </sequence>
+                                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">tarsius_syrichta</property>
+                                            </clade>
+                                          </clade>
+                                        </clade>
+                                      </clade>
+                                      <clade branch_length="0.058863">
+                                        <confidence type="bootstrap">93</confidence>
+                                        <taxonomy>
+                                          <id>9263</id>
+                                          <scientific_name>Marsupialia</scientific_name>
+                                        </taxonomy>
+                                        <events>
+                                          <type>speciation_or_duplication</type>
+                                          <duplications>1</duplications>
+                                        </events>
+                                        <clade branch_length="0.160186">
+                                          <confidence type="bootstrap">100</confidence>
+                                          <taxonomy>
+                                            <id>9305</id>
+                                            <scientific_name>Sarcophilus harrisii</scientific_name>
+                                          </taxonomy>
+                                          <events>
+                                            <type>speciation_or_duplication</type>
+                                            <duplications>1</duplications>
+                                          </events>
+                                          <clade branch_length="0.040583">
+                                            <name>ENSSHAG00000000597</name>
+                                            <taxonomy>
+                                              <id>9305</id>
+                                              <scientific_name>Sarcophilus harrisii</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSSHAP00000000668</accession>
+                                              <location>GL846947.1:1982-3739</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">sarcophilus_harrisii</property>
+                                          </clade>
+                                          <clade branch_length="0.072028">
+                                            <name>ENSSHAG00000003784</name>
+                                            <taxonomy>
+                                              <id>9305</id>
+                                              <scientific_name>Sarcophilus harrisii</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSSHAP00000004297</accession>
+                                              <location>GL841819.1:75019-77299</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">sarcophilus_harrisii</property>
+                                          </clade>
+                                        </clade>
+                                        <clade branch_length="0">
+                                          <confidence type="bootstrap">93</confidence>
+                                          <taxonomy>
+                                            <id>9263</id>
+                                            <scientific_name>Marsupialia</scientific_name>
+                                          </taxonomy>
+                                          <clade branch_length="0.031487">
+                                            <name>ENSMODG00000013056</name>
+                                            <taxonomy>
+                                              <id>13616</id>
+                                              <scientific_name>Monodelphis domestica</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSMODP00000016351</accession>
+                                              <location>1:319962172-319996190</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">monodelphis_domestica</property>
+                                          </clade>
+                                          <clade branch_length="0.022352">
+                                            <name>ENSSHAG00000004889</name>
+                                            <taxonomy>
+                                              <id>9305</id>
+                                              <scientific_name>Sarcophilus harrisii</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSSHAP00000005595</accession>
+                                              <location>GL834589.1:127276-162591</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">sarcophilus_harrisii</property>
+                                          </clade>
+                                        </clade>
+                                      </clade>
+                                    </clade>
+                                    <clade branch_length="0.072605">
+                                      <name>ENSOANG00000009487</name>
+                                      <taxonomy>
+                                        <id>9258</id>
+                                        <scientific_name>Ornithorhynchus anatinus</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">ENSOANP00000015072</accession>
+                                        <location>Contig9048:9653-19362</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">ornithorhynchus_anatinus</property>
+                                    </clade>
+                                  </clade>
+                                  <clade branch_length="0.034898">
+                                    <confidence type="bootstrap">14</confidence>
+                                    <taxonomy>
+                                      <id>8457</id>
+                                      <scientific_name>Sauropsida</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.062168">
+                                      <name>ENSPSIG00000013403</name>
+                                      <taxonomy>
+                                        <id>13735</id>
+                                        <scientific_name>Pelodiscus sinensis</scientific_name>
+                                      </taxonomy>
+                                      <sequence>
+                                        <accession source="compara">ENSPSIP00000015053</accession>
+                                        <location>JH209062.1:3397783-3432524</location>
+                                      </sequence>
+                                      <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">pelodiscus_sinensis</property>
+                                    </clade>
+                                    <clade branch_length="0.016235">
+                                      <confidence type="bootstrap">14</confidence>
+                                      <taxonomy>
+                                        <id>32561</id>
+                                        <scientific_name>Sauria</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.137482">
+                                        <name>ENSACAG00000013001</name>
+                                        <taxonomy>
+                                          <id>28377</id>
+                                          <scientific_name>Anolis carolinensis</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">ENSACAP00000012795</accession>
+                                          <location>GL343270.1:1817922-1832293</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">anolis_carolinensis</property>
+                                      </clade>
+                                      <clade branch_length="0.044563">
+                                        <confidence type="bootstrap">100</confidence>
+                                        <taxonomy>
+                                          <id>8825</id>
+                                          <scientific_name>Neognathae</scientific_name>
+                                        </taxonomy>
+                                        <clade branch_length="0.034444">
+                                          <confidence type="bootstrap">100</confidence>
+                                          <taxonomy>
+                                            <id>59729</id>
+                                            <scientific_name>Taeniopygia guttata</scientific_name>
+                                          </taxonomy>
+                                          <events>
+                                            <type>speciation_or_duplication</type>
+                                            <duplications>1</duplications>
+                                          </events>
+                                          <clade branch_length="0.013467">
+                                            <name>ENSTGUG00000014751</name>
+                                            <taxonomy>
+                                              <id>59729</id>
+                                              <scientific_name>Taeniopygia guttata</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSTGUP00000015121</accession>
+                                              <location>Un:149596595-149601567</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">taeniopygia_guttata</property>
+                                          </clade>
+                                          <clade branch_length="0.001236">
+                                            <name>ENSTGUG00000012719</name>
+                                            <taxonomy>
+                                              <id>59729</id>
+                                              <scientific_name>Taeniopygia guttata</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSTGUP00000013092</accession>
+                                              <location>5:49214860-49228916</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">taeniopygia_guttata</property>
+                                          </clade>
+                                        </clade>
+                                        <clade branch_length="0.032145">
+                                          <confidence type="bootstrap">100</confidence>
+                                          <taxonomy>
+                                            <id>9005</id>
+                                            <scientific_name>Phasianidae</scientific_name>
+                                          </taxonomy>
+                                          <clade branch_length="0.009875">
+                                            <name>ENSMGAG00000012776</name>
+                                            <taxonomy>
+                                              <id>9103</id>
+                                              <scientific_name>Meleagris gallopavo</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSMGAP00000013471</accession>
+                                              <location>5:49984092-49996372</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">meleagris_gallopavo</property>
+                                          </clade>
+                                          <clade branch_length="0.012944">
+                                            <name>ENSGALG00000011138</name>
+                                            <taxonomy>
+                                              <id>9031</id>
+                                              <scientific_name>Gallus gallus</scientific_name>
+                                            </taxonomy>
+                                            <sequence>
+                                              <accession source="compara">ENSGALP00000018144</accession>
+                                              <location>5:50489844-50502542</location>
+                                            </sequence>
+                                            <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gallus_gallus</property>
+                                          </clade>
+                                        </clade>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                              </clade>
+                              <clade branch_length="0.137137">
+                                <name>ENSLACG00000012921</name>
+                                <taxonomy>
+                                  <id>7897</id>
+                                  <scientific_name>Latimeria chalumnae</scientific_name>
+                                </taxonomy>
+                                <sequence>
+                                  <accession source="compara">ENSLACP00000014682</accession>
+                                  <location>JH126622.1:784635-802842</location>
+                                </sequence>
+                                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">latimeria_chalumnae</property>
+                              </clade>
+                            </clade>
+                          </clade>
+                          <clade branch_length="0.054023">
+                            <confidence type="bootstrap">9</confidence>
+                            <taxonomy>
+                              <id>186625</id>
+                              <scientific_name>Clupeocephala</scientific_name>
+                            </taxonomy>
+                            <clade branch_length="0.167179">
+                              <name>ENSDARG00000034146</name>
+                              <taxonomy>
+                                <id>7955</id>
+                                <scientific_name>Danio rerio</scientific_name>
+                              </taxonomy>
+                              <sequence>
+                                <accession source="compara">ENSDARP00000113893</accession>
+                                <location>20:5115838-5136143</location>
+                              </sequence>
+                              <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">danio_rerio</property>
+                            </clade>
+                            <clade branch_length="0.026432">
+                              <confidence type="bootstrap">11</confidence>
+                              <taxonomy>
+                                <id>123370</id>
+                                <scientific_name>Holacanthopterygii</scientific_name>
+                              </taxonomy>
+                              <events>
+                                <type>speciation_or_duplication</type>
+                                <duplications>1</duplications>
+                              </events>
+                              <clade branch_length="0.055135">
+                                <confidence type="bootstrap">78</confidence>
+                                <taxonomy>
+                                  <id>123370</id>
+                                  <scientific_name>Holacanthopterygii</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.06235">
+                                  <name>ENSGMOG00000015907</name>
+                                  <taxonomy>
+                                    <id>8049</id>
+                                    <scientific_name>Gadus morhua</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">ENSGMOP00000017082</accession>
+                                    <location>GeneScaffold_2411:59030-61109</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gadus_morhua</property>
+                                </clade>
+                                <clade branch_length="0.348086">
+                                  <name>ENSGACG00000013132</name>
+                                  <taxonomy>
+                                    <id>69293</id>
+                                    <scientific_name>Gasterosteus aculeatus</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">ENSGACP00000017366</accession>
+                                    <location>groupXV:15464250-15467355</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gasterosteus_aculeatus</property>
+                                </clade>
+                              </clade>
+                              <clade branch_length="0.057299">
+                                <confidence type="bootstrap">76</confidence>
+                                <taxonomy>
+                                  <id>123370</id>
+                                  <scientific_name>Holacanthopterygii</scientific_name>
+                                </taxonomy>
+                                <clade branch_length="0.125515">
+                                  <name>ENSGMOG00000010181</name>
+                                  <taxonomy>
+                                    <id>8049</id>
+                                    <scientific_name>Gadus morhua</scientific_name>
+                                  </taxonomy>
+                                  <sequence>
+                                    <accession source="compara">ENSGMOP00000010894</accession>
+                                    <location>GeneScaffold_2605:23530-27230</location>
+                                  </sequence>
+                                  <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gadus_morhua</property>
+                                </clade>
+                                <clade branch_length="0.050671">
+                                  <confidence type="bootstrap">4</confidence>
+                                  <taxonomy>
+                                    <id>32485</id>
+                                    <scientific_name>Percomorpha</scientific_name>
+                                  </taxonomy>
+                                  <clade branch_length="0.086742">
+                                    <name>ENSONIG00000001069</name>
+                                    <taxonomy>
+                                      <id>8128</id>
+                                      <scientific_name>Oreochromis niloticus</scientific_name>
+                                    </taxonomy>
+                                    <sequence>
+                                      <accession source="compara">ENSONIP00000001356</accession>
+                                      <location>GL831143.1:5347144-5354103</location>
+                                    </sequence>
+                                    <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">oreochromis_niloticus</property>
+                                  </clade>
+                                  <clade branch_length="0.014613">
+                                    <taxonomy>
+                                      <id>32485</id>
+                                      <scientific_name>Percomorpha</scientific_name>
+                                    </taxonomy>
+                                    <clade branch_length="0.043301">
+                                      <confidence type="bootstrap">22</confidence>
+                                      <taxonomy>
+                                        <id>31031</id>
+                                        <scientific_name>Tetraodontidae</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.049678">
+                                        <name>ENSTNIG00000009694</name>
+                                        <taxonomy>
+                                          <id>99883</id>
+                                          <scientific_name>Tetraodon nigroviridis</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">ENSTNIP00000012575</accession>
+                                          <location>14:8311568-8314679</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">tetraodon_nigroviridis</property>
+                                      </clade>
+                                      <clade branch_length="0.064297">
+                                        <name>ENSTRUG00000018066</name>
+                                        <taxonomy>
+                                          <id>31033</id>
+                                          <scientific_name>Takifugu rubripes</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">ENSTRUP00000046261</accession>
+                                          <location>scaffold_185:427184-430952</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">takifugu_rubripes</property>
+                                      </clade>
+                                    </clade>
+                                    <clade branch_length="0.003709">
+                                      <confidence type="bootstrap">2</confidence>
+                                      <taxonomy>
+                                        <id>129949</id>
+                                        <scientific_name>Smegmamorpha</scientific_name>
+                                      </taxonomy>
+                                      <clade branch_length="0.117994">
+                                        <name>ENSGACG00000005517</name>
+                                        <taxonomy>
+                                          <id>69293</id>
+                                          <scientific_name>Gasterosteus aculeatus</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">ENSGACP00000007294</accession>
+                                          <location>groupXVIII:2567004-2572933</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">gasterosteus_aculeatus</property>
+                                      </clade>
+                                      <clade branch_length="0.08489">
+                                        <name>ENSXMAG00000013085</name>
+                                        <taxonomy>
+                                          <id>8083</id>
+                                          <scientific_name>Xiphophorus maculatus</scientific_name>
+                                        </taxonomy>
+                                        <sequence>
+                                          <accession source="compara">ENSXMAP00000013107</accession>
+                                          <location>JH557624.1:32949-36782</location>
+                                        </sequence>
+                                        <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">xiphophorus_maculatus</property>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                              </clade>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade branch_length="0.209384">
+                          <name>ENSPMAG00000003120</name>
+                          <taxonomy>
+                            <id>7757</id>
+                            <scientific_name>Petromyzon marinus</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">ENSPMAP00000003394</accession>
+                            <location>GL483875:8555-11677</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">petromyzon_marinus</property>
+                        </clade>
+                      </clade>
+                      <clade branch_length="0.352208">
+                        <confidence type="bootstrap">100</confidence>
+                        <taxonomy>
+                          <id>7668</id>
+                          <scientific_name>Strongylocentrotus purpuratus</scientific_name>
+                        </taxonomy>
+                        <events>
+                          <type>speciation_or_duplication</type>
+                          <duplications>1</duplications>
+                        </events>
+                        <clade branch_length="0.034372">
+                          <name>SPU_018199gn</name>
+                          <taxonomy>
+                            <id>7668</id>
+                            <scientific_name>Strongylocentrotus purpuratus</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">SPU_018199tr</accession>
+                            <location>scaffold_494:359334-368029</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">strongylocentrotus_purpuratus</property>
+                        </clade>
+                        <clade branch_length="0.085736">
+                          <name>SPU_005021gn</name>
+                          <taxonomy>
+                            <id>7668</id>
+                            <scientific_name>Strongylocentrotus purpuratus</scientific_name>
+                          </taxonomy>
+                          <sequence>
+                            <accession source="compara">SPU_005021tr</accession>
+                            <location>scaffold_494:361430-367675</location>
+                          </sequence>
+                          <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">strongylocentrotus_purpuratus</property>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+              <clade branch_length="0.459006">
+                <name>NEMVEDRAFT_v1g83332</name>
+                <taxonomy>
+                  <id>45351</id>
+                  <scientific_name>Nematostella vectensis</scientific_name>
+                </taxonomy>
+                <sequence>
+                  <accession source="compara">NEMVEDRAFT_v1g83332-PA</accession>
+                  <location>scaffold_7:428736-433063</location>
+                </sequence>
+                <property datatype="xsd:string" ref="Compara:genome_db_name" applies_to="clade">nematostella_vectensis</property>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

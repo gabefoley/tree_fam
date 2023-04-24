@@ -1,0 +1,4 @@
+Building DAG of jobs...
+WildcardError in rule all in file /Users/uqgfoley/Dropbox/Code/Python_Workspace/lots_of_trees/Snakefile, line 30:
+Wildcards in input files cannot be determined from output files:
+'dataset'

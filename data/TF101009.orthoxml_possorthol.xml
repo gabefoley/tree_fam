@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orthoXML xsi:schemaLocation="http://orthoXML.org http://orthoXML.org/0.3/orthoxml.xsd" version="0.3" origin="compara" originVersion="69" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://orthoXML.org/2011/">
+  <species NCBITaxId="61853" name="nomascus_leucogenys">
+    <database name="69" version="Nleu1.0/2010-10-Ensembl">
+      <genes>
+        <gene id="1695863" geneId="ENSNLEG00000013305" protId="ENSNLEP00000016128" />
+        <gene id="859798" geneId="ENSNLEG00000004343" protId="ENSNLEP00000005260" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9544" name="macaca_mulatta">
+    <database name="69" version="MMUL_1/2006-01-Ensembl">
+      <genes>
+        <gene id="1947678" geneId="ENSMMUG00000016689" protId="ENSMMUP00000021940" />
+        <gene id="2616626" geneId="ENSMMUG00000023073" protId="ENSMMUP00000030379" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10116" name="rattus_norvegicus">
+    <database name="69" version="RGSC3.4/2009-03-Ensembl">
+      <genes>
+        <gene id="2320820" geneId="ENSRNOG00000003893" protId="ENSRNOP00000005171" />
+        <gene id="2467352" geneId="ENSRNOG00000014551" protId="ENSRNOP00000019521" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="13735" name="pelodiscus_sinensis">
+    <database name="69" version="PelSin_1.0/2011-11-Ensembl">
+      <genes>
+        <gene id="345960" geneId="ENSPSIG00000008157" protId="ENSPSIP00000008932" />
+        <gene id="2052398" geneId="ENSPSIG00000011446" protId="ENSPSIP00000012709" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7217" name="drosophila_ananassae">
+    <database name="69" version="dana_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="3234710" geneId="FBgn0101206" protId="FBpp0127404" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="69293" name="gasterosteus_aculeatus">
+    <database name="69" version="BROADS1/2006-06-Ensembl">
+      <genes>
+        <gene id="2050226" geneId="ENSGACG00000018141" protId="ENSGACP00000023970" />
+        <gene id="1741395" geneId="ENSGACG00000002931" protId="ENSGACP00000003835" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9813" name="procavia_capensis">
+    <database name="69" version="proCap1/2008-11-Ensembl">
+      <genes>
+        <gene id="682700" geneId="ENSPCAG00000011521" protId="ENSPCAP00000010717" />
+        <gene id="2456289" geneId="ENSPCAG00000014047" protId="ENSPCAP00000013104" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9739" name="tursiops_truncatus">
+    <database name="69" version="turTru1/2008-11-Ensembl">
+      <genes>
+        <gene id="1960242" geneId="ENSTTRG00000005392" protId="ENSTTRP00000005078" />
+        <gene id="638063" geneId="ENSTTRG00000012635" protId="ENSTTRP00000011989" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="37347" name="tupaia_belangeri">
+    <database name="69" version="TREESHREW/2006-10-Ensembl">
+      <genes>
+        <gene id="396168" geneId="ENSTBEG00000002833" protId="ENSTBEP00000002436" />
+        <gene id="2892158" geneId="ENSTBEG00000015244" protId="ENSTBEP00000013227" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7238" name="drosophila_sechellia">
+    <database name="69" version="dsec_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="4318000" geneId="FBgn0169497" protId="FBpp0196053" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9593" name="gorilla_gorilla">
+    <database name="69" version="gorGor3.1/2009-08-Ensembl">
+      <genes>
+        <gene id="2337142" geneId="ENSGGOG00000006034" protId="ENSGGOP00000005903" />
+        <gene id="1805018" geneId="ENSGGOG00000004645" protId="ENSGGOP00000004549" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9685" name="felis_catus">
+    <database name="69" version="CAT/2008-02-Ensembl">
+      <genes>
+        <gene id="1748015" geneId="ENSFCAG00000001770" protId="ENSFCAP00000001639" />
+        <gene id="2445223" geneId="ENSFCAG00000011150" protId="ENSFCAP00000010358" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="132908" name="pteropus_vampyrus">
+    <database name="69" version="pteVam1/2008-11-Ensembl">
+      <genes>
+        <gene id="1747305" geneId="ENSPVAG00000004147" protId="ENSPVAP00000003926" />
+        <gene id="2207202" geneId="ENSPVAG00000015929" protId="ENSPVAP00000015031" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="46245" name="drosophila_pseudoobscura">
+    <database name="69" version="HGSC2/2011-07-FlyBase">
+      <genes>
+        <gene id="4521066" geneId="FBgn0249965" protId="FBpp0286985" />
+        <gene id="3212641" geneId="FBgn0249227" protId="FBpp0285412" />
+        <gene id="4521012" geneId="FBgn0249964" protId="FBpp0286984" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="13616" name="monodelphis_domestica">
+    <database name="69" version="BROADO5/2007-02-Ensembl">
+      <genes>
+        <gene id="760005" geneId="ENSMODG00000007987" protId="ENSMODP00000009944" />
+        <gene id="536861" geneId="ENSMODG00000004869" protId="ENSMODP00000005993" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9601" name="pongo_abelii">
+    <database name="69" version="PPYG2/2007-10-Ensembl">
+      <genes>
+        <gene id="1007972" geneId="ENSPPYG00000002515" protId="ENSPPYP00000002919" />
+        <gene id="1957727" geneId="ENSPPYG00000016005" protId="ENSPPYP00000017911" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10020" name="dipodomys_ordii">
+    <database name="69" version="dipOrd1/2008-11-Ensembl">
+      <genes>
+        <gene id="2176425" geneId="ENSDORG00000008265" protId="ENSDORP00000007754" />
+        <gene id="2656894" geneId="ENSDORG00000002582" protId="ENSDORP00000002426" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9986" name="oryctolagus_cuniculus">
+    <database name="69" version="oryCun2/2009-11-Ensembl">
+      <genes>
+        <gene id="1095944" geneId="ENSOCUG00000011114" protId="ENSOCUP00000009566" />
+        <gene id="1839494" geneId="ENSOCUG00000005439" protId="ENSOCUP00000023609" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7244" name="drosophila_virilis">
+    <database name="69" version="dvir_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="1348155" geneId="FBgn0199521" protId="FBpp0226689" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9483" name="callithrix_jacchus">
+    <database name="69" version="C_jacchus3.2.1/2010-02-Ensembl">
+      <genes>
+        <gene id="2619250" geneId="ENSCJAG00000019119" protId="ENSCJAP00000035488" />
+        <gene id="2301885" geneId="ENSCJAG00000016259" protId="ENSCJAP00000029934" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8090" name="oryzias_latipes">
+    <database name="69" version="MEDAKA1/2006-05-Ensembl">
+      <genes>
+        <gene id="1527253" geneId="ENSORLG00000005468" protId="ENSORLP00000006884" />
+        <gene id="2112652" geneId="ENSORLG00000000674" protId="ENSORLP00000000828" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7757" name="petromyzon_marinus">
+    <database name="69" version="Pmarinus_7.0/2011-02-Ensembl">
+      <genes>
+        <gene id="453251" geneId="ENSPMAG00000002852" protId="ENSPMAP00000003105" />
+        <gene id="62308" geneId="ENSPMAG00000000060" protId="ENSPMAP00000000066" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="43179" name="ictidomys_tridecemlineatus">
+    <database name="69" version="spetri2/2011-12-Ensembl">
+      <genes>
+        <gene id="684572" geneId="ENSSTOG00000020277" protId="ENSSTOP00000020861" />
+        <gene id="1760967" geneId="ENSSTOG00000005634" protId="ENSSTOP00000005038" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7176" name="culex_quinquefasciatus">
+    <database name="69" version="CpipJ1/2012-01-VectorBase">
+      <genes>
+        <gene id="3297865" geneId="CPIJ016049" protId="CPIJ016049-PA" />
+        <gene id="4495813" geneId="CPIJ015384" protId="CPIJ015384-PA" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9913" name="bos_taurus">
+    <database name="69" version="UMD3.1/2011-04-Ensembl">
+      <genes>
+        <gene id="2001534" geneId="ENSBTAG00000033685" protId="ENSBTAP00000004744" />
+        <gene id="486246" geneId="ENSBTAG00000046343" protId="ENSBTAP00000055655" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10090" name="mus_musculus">
+    <database name="69" version="GRCm38/2012-01-Ensembl">
+      <genes>
+        <gene id="2585906" geneId="ENSMUSG00000044707" protId="ENSMUSP00000058111" />
+        <gene id="1622961" geneId="ENSMUSG00000025010" protId="ENSMUSP00000025983" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9371" name="echinops_telfairi">
+    <database name="69" version="TENREC/2006-01-Ensembl">
+      <genes>
+        <gene id="2954512" geneId="ENSETEG00000001463" protId="ENSETEP00000001179" />
+        <gene id="3056632" geneId="ENSETEG00000019929" protId="ENSETEP00000016186" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9606" name="homo_sapiens">
+    <database name="69" version="GRCh37/2010-07-Ensembl">
+      <genes>
+        <gene id="1865650" geneId="ENSG00000135083" protId="ENSP00000377547" />
+        <gene id="477770" geneId="ENSG00000107443" protId="ENSP00000388902" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9615" name="canis_familiaris">
+    <database name="69" version="CanFam3.1/2011-11-Ensembl">
+      <genes>
+        <gene id="1036934" geneId="ENSCAFG00000008454" protId="ENSCAFP00000012414" />
+        <gene id="1186052" geneId="ENSCAFG00000009406" protId="ENSCAFP00000013853" />
+        <gene id="1722860" geneId="ENSCAFG00000017274" protId="ENSCAFP00000025446" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8083" name="xiphophorus_maculatus">
+    <database name="69" version="Xipmac4.4.2/2012-01-Ensembl">
+      <genes>
+        <gene id="192829" geneId="ENSXMAG00000009002" protId="ENSXMAP00000009024" />
+        <gene id="178528" geneId="ENSXMAG00000007625" protId="ENSXMAP00000007644" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30611" name="otolemur_garnettii">
+    <database name="69" version="OtoGar3/2011-06-Ensembl">
+      <genes>
+        <gene id="127665" geneId="ENSOGAG00000012297" protId="ENSOGAP00000011000" />
+        <gene id="714713" geneId="ENSOGAG00000015065" protId="ENSOGAP00000013486" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7159" name="aedes_aegypti">
+    <database name="69" version="AaegL1/2012-03-VectorBase">
+      <genes>
+        <gene id="2571898" geneId="AAEL008256" protId="AAEL008256-PA" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7897" name="latimeria_chalumnae">
+    <database name="69" version="LatCha1/2011-09-Ensembl">
+      <genes>
+        <gene id="540346" geneId="ENSLACG00000010779" protId="ENSLACP00000012247" />
+        <gene id="1832478" geneId="ENSLACG00000005878" protId="ENSLACP00000006627" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9315" name="macropus_eugenii">
+    <database name="69" version="Meug_1.0/2009-02-Ensembl">
+      <genes>
+        <gene id="2859265" geneId="ENSMEUG00000014752" protId="ENSMEUP00000013465" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59463" name="myotis_lucifugus">
+    <database name="69" version="Myoluc2.0/2010-12-Ensembl">
+      <genes>
+        <gene id="38627" geneId="ENSMLUG00000022649" protId="ENSMLUP00000020617" />
+        <gene id="836037" geneId="ENSMLUG00000014058" protId="ENSMLUP00000012789" />
+        <gene id="318236" geneId="ENSMLUG00000003076" protId="ENSMLUP00000002793" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="45351" name="nematostella_vectensis">
+    <database name="69" version="ASM20922v1/2010-12-JGI">
+      <genes>
+        <gene id="1614401" geneId="NEMVEDRAFT_v1g81761" protId="NEMVEDRAFT_v1g81761-PA" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8364" name="xenopus_tropicalis">
+    <database name="69" version="JGI_4.2/2010-09-Ensembl">
+      <genes>
+        <gene id="1583089" geneId="ENSXETG00000012186" protId="ENSXETP00000026592" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="31033" name="takifugu_rubripes">
+    <database name="69" version="FUGU4/2007-11-Ensembl">
+      <genes>
+        <gene id="2443606" geneId="ENSTRUG00000001156" protId="ENSTRUP00000002700" />
+        <gene id="1774252" geneId="ENSTRUG00000011249" protId="ENSTRUP00000028401" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7220" name="drosophila_erecta">
+    <database name="69" version="dere_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="3006179" geneId="FBgn0107397" protId="FBpp0133690" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9796" name="equus_caballus">
+    <database name="69" version="EquCab2/2007-09-Ensembl">
+      <genes>
+        <gene id="1774479" geneId="ENSECAG00000016020" protId="ENSECAP00000013633" />
+        <gene id="1069216" geneId="ENSECAG00000021303" protId="ENSECAP00000018740" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9669" name="mustela_putorius_furo">
+    <database name="69" version="MusPutFur1.0/2012-04-Ensembl">
+      <genes>
+        <gene id="1656186" geneId="ENSMPUG00000017092" protId="ENSMPUP00000016984" />
+        <gene id="2088577" geneId="ENSMPUG00000013291" protId="ENSMPUP00000013193" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7230" name="drosophila_mojavensis">
+    <database name="69" version="dmoj_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="2432647" geneId="FBgn0135140" protId="FBpp0161600" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30608" name="microcebus_murinus">
+    <database name="69" version="micMur1/2007-07-Ensembl">
+      <genes>
+        <gene id="970635" geneId="ENSMICG00000010863" protId="ENSMICP00000009893" />
+        <gene id="2865630" geneId="ENSMICG00000003254" protId="ENSMICP00000002953" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9358" name="choloepus_hoffmanni">
+    <database name="69" version="choHof1/2008-11-Ensembl">
+      <genes>
+        <gene id="2533518" geneId="ENSCHOG00000007958" protId="ENSCHOP00000007041" />
+        <gene id="2846208" geneId="ENSCHOG00000012497" protId="ENSCHOP00000011066" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9031" name="gallus_gallus">
+    <database name="69" version="WASHUC2/2006-08-Ensembl">
+      <genes>
+        <gene id="1730159" geneId="ENSGALG00000006955" protId="ENSGALP00000011254" />
+        <gene id="567224" geneId="ENSGALG00000001455" protId="ENSGALP00000002208" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9305" name="sarcophilus_harrisii">
+    <database name="69" version="DEVIL7.0/2011-03-Ensembl">
+      <genes>
+        <gene id="131685" geneId="ENSSHAG00000008374" protId="ENSSHAP00000009675" />
+        <gene id="404306" geneId="ENSSHAG00000009091" protId="ENSSHAP00000010532" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9365" name="erinaceus_europaeus">
+    <database name="69" version="HEDGEHOG/2006-10-Ensembl">
+      <genes>
+        <gene id="2826484" geneId="ENSEEUG00000002270" protId="ENSEEUP00000002064" />
+        <gene id="2818224" geneId="ENSEEUG00000000069" protId="ENSEEUP00000000060" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30538" name="vicugna_pacos">
+    <database name="69" version="vicPac1/2008-11-Ensembl">
+      <genes>
+        <gene id="672901" geneId="ENSVPAG00000000490" protId="ENSVPAP00000000458" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9361" name="dasypus_novemcinctus">
+    <database name="69" version="dasNov2/2008-11-Ensembl">
+      <genes>
+        <gene id="2265623" geneId="ENSDNOG00000007895" protId="ENSDNOP00000006126" />
+        <gene id="2864834" geneId="ENSDNOG00000013723" protId="ENSDNOP00000010632" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9978" name="ochotona_princeps">
+    <database name="69" version="pika/2008-01-Ensembl">
+      <genes>
+        <gene id="2122952" geneId="ENSOPRG00000004513" protId="ENSOPRP00000004150" />
+        <gene id="2888568" geneId="ENSOPRG00000009983" protId="ENSOPRP00000009110" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9258" name="ornithorhynchus_anatinus">
+    <database name="69" version="OANA5/2007-01-Ensembl">
+      <genes>
+        <gene id="2566156" geneId="ENSOANG00000015791" protId="ENSOANP00000024895" />
+        <gene id="2450676" geneId="ENSOANG00000012331" protId="ENSOANP00000019512" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9646" name="ailuropoda_melanoleuca">
+    <database name="69" version="ailMel1/2010-01-Ensembl">
+      <genes>
+        <gene id="652237" geneId="ENSAMEG00000006599" protId="ENSAMEP00000006950" />
+        <gene id="841819" geneId="ENSAMEG00000000344" protId="ENSAMEP00000000359" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10141" name="cavia_porcellus">
+    <database name="69" version="cavPor3/2008-03-Ensembl">
+      <genes>
+        <gene id="1930263" geneId="ENSCPOG00000001476" protId="ENSCPOP00000001332" />
+        <gene id="1324659" geneId="ENSCPOG00000014128" protId="ENSCPOP00000012727" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7222" name="drosophila_grimshawi">
+    <database name="69" version="dgri_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="4311612" geneId="FBgn0123588" protId="FBpp0150023" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9785" name="loxodonta_africana">
+    <database name="69" version="loxAfr3/2009-07-Ensembl">
+      <genes>
+        <gene id="160385" geneId="ENSLAFG00000020892" protId="ENSLAFP00000015883" />
+        <gene id="859468" geneId="ENSLAFG00000008972" protId="ENSLAFP00000007530" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9478" name="tarsius_syrichta">
+    <database name="69" version="tarSyr1/2008-11-Ensembl">
+      <genes>
+        <gene id="2942996" geneId="ENSTSYG00000009466" protId="ENSTSYP00000008681" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7260" name="drosophila_willistoni">
+    <database name="69" version="dwil_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="3359859" geneId="FBgn0222513" protId="FBpp0249659" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7955" name="danio_rerio">
+    <database name="69" version="Zv9/2010-06-Ensembl">
+      <genes>
+        <gene id="1784483" geneId="ENSDARG00000059917" protId="ENSDARP00000078292" />
+        <gene id="2211042" geneId="ENSDARG00000077116" protId="ENSDARP00000100023" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59729" name="taeniopygia_guttata">
+    <database name="69" version="taeGut3.2.4/2008-08-Ensembl">
+      <genes>
+        <gene id="1092101" geneId="ENSTGUG00000009052" protId="ENSTGUP00000009327" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9103" name="meleagris_gallopavo">
+    <database name="69" version="UMD2/2010-09-Ensembl">
+      <genes>
+        <gene id="1542012" geneId="ENSMGAG00000009211" protId="ENSMGAP00000009493" />
+        <gene id="392334" geneId="ENSMGAG00000002930" protId="ENSMGAP00000002569" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7234" name="drosophila_persimilis">
+    <database name="69" version="dper_caf1/2008-07-FlyBase">
+      <genes>
+        <gene id="3357335" geneId="FBgn0150857" protId="FBpp0177358" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8128" name="oreochromis_niloticus">
+    <database name="69" version="Orenil1.0/2011-05-Ensembl">
+      <genes>
+        <gene id="472947" geneId="ENSONIG00000014839" protId="ENSONIP00000018683" />
+        <gene id="865062" geneId="ENSONIG00000012959" protId="ENSONIP00000016301" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="99883" name="tetraodon_nigroviridis">
+    <database name="69" version="TETRAODON8/2007-11-Ensembl">
+      <genes>
+        <gene id="2090036" geneId="ENSTNIG00000004023" protId="ENSTNIP00000006633" />
+        <gene id="1669406" geneId="ENSTNIG00000004651" protId="ENSTNIP00000007304" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="42254" name="sorex_araneus">
+    <database name="69" version="COMMON_SHREW1/2007-04-Ensembl">
+      <genes>
+        <gene id="2813358" geneId="ENSSARG00000002857" protId="ENSSARP00000002566" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9823" name="sus_scrofa">
+    <database name="69" version="Sscrofa10.2/2011-09-Ensembl">
+      <genes>
+        <gene id="630626" geneId="ENSSSCG00000010502" protId="ENSSSCP00000011190" />
+        <gene id="2145494" geneId="ENSSSCG00000017036" protId="ENSSSCP00000018049" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7668" name="strongylocentrotus_purpuratus">
+    <database name="69" version="Spur2.5/2010-12-SpBase">
+      <genes>
+        <gene id="4902574" geneId="SPU_021704gn" protId="SPU_021704tr" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8049" name="gadus_morhua">
+    <database name="69" version="gadMor1/2010-01-Ensembl">
+      <genes>
+        <gene id="2866156" geneId="ENSGMOG00000016180" protId="ENSGMOP00000017355" />
+        <gene id="2012394" geneId="ENSGMOG00000008291" protId="ENSGMOP00000008871" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7227" name="drosophila_melanogaster">
+    <database name="69" version="BDGP5/2012-04-FlyBase">
+      <genes>
+        <gene id="4174108" geneId="FBgn0010317" protId="FBpp0072987" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9598" name="pan_troglodytes">
+    <database name="69" version="CHIMP2.1.4/2011-05-Ensembl">
+      <genes>
+        <gene id="1813948" geneId="ENSPTRG00000002790" protId="ENSPTRP00000004881" />
+        <gene id="1536237" geneId="ENSPTRG00000017488" protId="ENSPTRP00000029878" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="28377" name="anolis_carolinensis">
+    <database name="69" version="AnoCar2.0/2010-09-Ensembl">
+      <genes>
+        <gene id="391667" geneId="ENSACAG00000003244" protId="ENSACAP00000003138" />
+        <gene id="331560" geneId="ENSACAG00000006178" protId="ENSACAP00000006028" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7245" name="drosophila_yakuba">
+    <database name="69" version="dyak_r1.3_FB2008_07/2008-07-FlyBase">
+      <genes>
+        <gene id="3260869" geneId="FBgn0238630" protId="FBpp0266378" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="225164" name="lottia_gigantea">
+    <database name="69" version="Lotgi1/nle_MAKER_updated_Ensembl">
+      <genes>
+        <gene id="738554" geneId="119939" protId="119939" />
+      </genes>
+    </database>
+  </species>
+  <scores>
+    <scoreDef id="bootstrap" desc="Reliability of the branch" />
+    <scoreDef id="duplication_confidence_score" desc="Reliability of the duplication" />
+  </scores>
+  <groups>
+    <orthologGroup id="815475">
+      <score id="bootstrap" value="0" />
+      <property name="taxon_id" value="6072" />
+      <property name="taxon_name" value="Eumetazoa" />
+      <geneRef id="1614401" />
+      <orthologGroup id="11168842">
+        <score id="bootstrap" value="7" />
+        <property name="taxon_id" value="33316" />
+        <property name="taxon_name" value="Coelomata" />
+        <orthologGroup id="11170047">
+          <score id="bootstrap" value="78" />
+          <property name="taxon_id" value="33511" />
+          <property name="taxon_name" value="Deuterostomia" />
+          <geneRef id="4902574" />
+          <paralogGroup id="11170108">
+            <score id="duplication_confidence_score" value="0.8750" />
+            <score id="bootstrap" value="45" />
+            <property name="taxon_id" value="7742" />
+            <property name="taxon_name" value="Vertebrata" />
+            <orthologGroup id="11170147">
+              <score id="bootstrap" value="100" />
+              <property name="taxon_id" value="117571" />
+              <property name="taxon_name" value="Euteleostomi" />
+              <orthologGroup id="11170669">
+                <score id="bootstrap" value="21" />
+                <property name="taxon_id" value="8287" />
+                <property name="taxon_name" value="Sarcopterygii" />
+                <geneRef id="1832478" />
+                <orthologGroup id="11170684">
+                  <score id="bootstrap" value="21" />
+                  <property name="taxon_id" value="32523" />
+                  <property name="taxon_name" value="Tetrapoda" />
+                  <orthologGroup id="11170749">
+                    <score id="bootstrap" value="100" />
+                    <property name="taxon_id" value="32524" />
+                    <property name="taxon_name" value="Amniota" />
+                    <orthologGroup id="11173299">
+                      <score id="bootstrap" value="4" />
+                      <property name="taxon_id" value="8457" />
+                      <property name="taxon_name" value="Sauropsida" />
+                      <geneRef id="345960" />
+                      <orthologGroup id="11173321">
+                        <score id="bootstrap" value="4" />
+                        <property name="taxon_id" value="32561" />
+                        <property name="taxon_name" value="Sauria" />
+                        <orthologGroup id="11173355">
+                          <score id="bootstrap" value="100" />
+                          <property name="taxon_id" value="8825" />
+                          <property name="taxon_name" value="Neognathae" />
+                          <orthologGroup id="11173419">
+                            <score id="bootstrap" value="100" />
+                            <property name="taxon_id" value="9005" />
+                            <property name="taxon_name" value="Phasianidae" />
+                            <geneRef id="1730159" />
+                            <geneRef id="1542012" />
+                          </orthologGroup>
+                          <geneRef id="1092101" />
+                        </orthologGroup>
+                        <geneRef id="331560" />
+                      </orthologGroup>
+                    </orthologGroup>
+                    <orthologGroup id="11170773">
+                      <score id="bootstrap" value="100" />
+                      <property name="taxon_id" value="40674" />
+                      <property name="taxon_name" value="Mammalia" />
+                      <orthologGroup id="11170839">
+                        <score id="bootstrap" value="97" />
+                        <property name="taxon_id" value="32525" />
+                        <property name="taxon_name" value="Theria" />
+                        <orthologGroup id="11173198">
+                          <score id="bootstrap" value="100" />
+                          <property name="taxon_id" value="9263" />
+                          <property name="taxon_name" value="Marsupialia" />
+                          <geneRef id="131685" />
+                          <geneRef id="536861" />
+                        </orthologGroup>
+                        <orthologGroup id="11170865">
+                          <score id="duplication_confidence_score" value="0.0000" />
+                          <score id="bootstrap" value="85" />
+                          <property name="taxon_id" value="9347" />
+                          <property name="taxon_name" value="Eutheria" />
+                          <property name="dubious_duplication" value="1" />
+                          <orthologGroup id="11173091">
+                            <score id="bootstrap" value="100" />
+                            <property name="taxon_id" value="39107" />
+                            <property name="taxon_name" value="Murinae" />
+                            <geneRef id="1622961" />
+                            <geneRef id="2467352" />
+                          </orthologGroup>
+                          <orthologGroup id="11170894">
+                            <score id="bootstrap" value="13" />
+                            <property name="taxon_id" value="9347" />
+                            <property name="taxon_name" value="Eutheria" />
+                            <orthologGroup id="11172909">
+                              <score id="bootstrap" value="36" />
+                              <property name="taxon_id" value="311790" />
+                              <property name="taxon_name" value="Afrotheria" />
+                              <orthologGroup id="11172949">
+                                <score id="bootstrap" value="96" />
+                                <property name="taxon_id" value="311790" />
+                                <property name="taxon_name" value="Afrotheria" />
+                                <geneRef id="682700" />
+                                <geneRef id="859468" />
+                              </orthologGroup>
+                              <geneRef id="3056632" />
+                            </orthologGroup>
+                            <orthologGroup id="11170924">
+                              <score id="duplication_confidence_score" value="0.0000" />
+                              <score id="bootstrap" value="0" />
+                              <property name="taxon_id" value="9347" />
+                              <property name="taxon_name" value="Eutheria" />
+                              <property name="dubious_duplication" value="1" />
+                              <orthologGroup id="11170948">
+                                <score id="bootstrap" value="0" />
+                                <property name="taxon_id" value="9347" />
+                                <property name="taxon_name" value="Eutheria" />
+                                <orthologGroup id="11170988">
+                                  <score id="duplication_confidence_score" value="0.0000" />
+                                  <score id="bootstrap" value="0" />
+                                  <property name="taxon_id" value="314146" />
+                                  <property name="taxon_name" value="Euarchontoglires" />
+                                  <property name="dubious_duplication" value="1" />
+                                  <orthologGroup id="11171021">
+                                    <score id="bootstrap" value="0" />
+                                    <property name="taxon_id" value="314146" />
+                                    <property name="taxon_name" value="Euarchontoglires" />
+                                    <geneRef id="2942996" />
+                                    <orthologGroup id="11171045">
+                                      <score id="bootstrap" value="0" />
+                                      <property name="taxon_id" value="314147" />
+                                      <property name="taxon_name" value="Glires" />
+                                      <orthologGroup id="11171077">
+                                        <score id="bootstrap" value="79" />
+                                        <property name="taxon_id" value="9975" />
+                                        <property name="taxon_name" value="Lagomorpha" />
+                                        <geneRef id="2888568" />
+                                        <geneRef id="1095944" />
+                                      </orthologGroup>
+                                      <orthologGroup id="11171182">
+                                        <score id="bootstrap" value="33" />
+                                        <property name="taxon_id" value="33553" />
+                                        <property name="taxon_name" value="Sciurognathi" />
+                                        <geneRef id="1760967" />
+                                        <geneRef id="2176425" />
+                                      </orthologGroup>
+                                    </orthologGroup>
+                                  </orthologGroup>
+                                  <orthologGroup id="11171307">
+                                    <score id="bootstrap" value="0" />
+                                    <property name="taxon_id" value="314146" />
+                                    <property name="taxon_name" value="Euarchontoglires" />
+                                    <geneRef id="1930263" />
+                                    <orthologGroup id="11171372">
+                                      <score id="bootstrap" value="33" />
+                                      <property name="taxon_id" value="9443" />
+                                      <property name="taxon_name" value="Primates" />
+                                      <orthologGroup id="11171404">
+                                        <score id="bootstrap" value="40" />
+                                        <property name="taxon_id" value="314293" />
+                                        <property name="taxon_name" value="Simiiformes" />
+                                        <geneRef id="2301885" />
+                                        <orthologGroup id="11171446">
+                                          <score id="bootstrap" value="18" />
+                                          <property name="taxon_id" value="9526" />
+                                          <property name="taxon_name" value="Catarrhini" />
+                                          <geneRef id="1947678" />
+                                          <orthologGroup id="11171471">
+                                            <score id="bootstrap" value="21" />
+                                            <property name="taxon_id" value="314295" />
+                                            <property name="taxon_name" value="Hominoidea" />
+                                            <orthologGroup id="11171544">
+                                              <score id="bootstrap" value="27" />
+                                              <property name="taxon_id" value="9604" />
+                                              <property name="taxon_name" value="Hominidae" />
+                                              <geneRef id="1007972" />
+                                              <orthologGroup id="11171595">
+                                                <score id="bootstrap" value="69" />
+                                                <property name="taxon_id" value="207598" />
+                                                <property name="taxon_name" value="Homininae" />
+                                                <geneRef id="2337142" />
+                                                <orthologGroup id="11171637">
+                                                  <score id="bootstrap" value="74" />
+                                                  <property name="taxon_id" value="207598" />
+                                                  <property name="taxon_name" value="Homininae" />
+                                                  <geneRef id="477770" />
+                                                  <geneRef id="1813948" />
+                                                </orthologGroup>
+                                              </orthologGroup>
+                                            </orthologGroup>
+                                            <geneRef id="1695863" />
+                                          </orthologGroup>
+                                        </orthologGroup>
+                                      </orthologGroup>
+                                      <orthologGroup id="11171815">
+                                        <score id="bootstrap" value="74" />
+                                        <property name="taxon_id" value="376911" />
+                                        <property name="taxon_name" value="Strepsirrhini" />
+                                        <geneRef id="714713" />
+                                        <geneRef id="970635" />
+                                      </orthologGroup>
+                                    </orthologGroup>
+                                  </orthologGroup>
+                                </orthologGroup>
+                                <geneRef id="2864834" />
+                              </orthologGroup>
+                              <orthologGroup id="11171935">
+                                <score id="bootstrap" value="3" />
+                                <property name="taxon_id" value="9347" />
+                                <property name="taxon_name" value="Eutheria" />
+                                <geneRef id="2533518" />
+                                <orthologGroup id="11171965">
+                                  <score id="duplication_confidence_score" value="0.0000" />
+                                  <score id="bootstrap" value="0" />
+                                  <property name="taxon_id" value="9347" />
+                                  <property name="taxon_name" value="Eutheria" />
+                                  <property name="dubious_duplication" value="1" />
+                                  <orthologGroup id="11172785">
+                                    <score id="bootstrap" value="54" />
+                                    <property name="taxon_id" value="9347" />
+                                    <property name="taxon_name" value="Eutheria" />
+                                    <geneRef id="396168" />
+                                    <geneRef id="2826484" />
+                                  </orthologGroup>
+                                  <orthologGroup id="11171993">
+                                    <score id="bootstrap" value="1" />
+                                    <property name="taxon_id" value="314145" />
+                                    <property name="taxon_name" value="Laurasiatheria" />
+                                    <geneRef id="2813358" />
+                                    <orthologGroup id="11172043">
+                                      <score id="bootstrap" value="1" />
+                                      <property name="taxon_id" value="314145" />
+                                      <property name="taxon_name" value="Laurasiatheria" />
+                                      <orthologGroup id="11172066">
+                                        <score id="bootstrap" value="6" />
+                                        <property name="taxon_id" value="314145" />
+                                        <property name="taxon_name" value="Laurasiatheria" />
+                                        <geneRef id="1774479" />
+                                        <orthologGroup id="11172098">
+                                          <score id="bootstrap" value="8" />
+                                          <property name="taxon_id" value="9397" />
+                                          <property name="taxon_name" value="Chiroptera" />
+                                          <geneRef id="1747305" />
+                                          <paralogGroup id="11172127">
+                                            <score id="duplication_confidence_score" value="1.0000" />
+                                            <score id="bootstrap" value="97" />
+                                            <property name="taxon_id" value="59463" />
+                                            <property name="taxon_name" value="Myotis lucifugus" />
+                                            <geneRef id="836037" />
+                                            <geneRef id="38627" />
+                                          </paralogGroup>
+                                        </orthologGroup>
+                                      </orthologGroup>
+                                      <orthologGroup id="11172275">
+                                        <score id="bootstrap" value="27" />
+                                        <property name="taxon_id" value="314145" />
+                                        <property name="taxon_name" value="Laurasiatheria" />
+                                        <orthologGroup id="11172312">
+                                          <score id="bootstrap" value="17" />
+                                          <property name="taxon_id" value="91561" />
+                                          <property name="taxon_name" value="Cetartiodactyla" />
+                                          <orthologGroup id="11172374">
+                                            <score id="bootstrap" value="8" />
+                                            <property name="taxon_id" value="91561" />
+                                            <property name="taxon_name" value="Cetartiodactyla" />
+                                            <geneRef id="672901" />
+                                            <orthologGroup id="11172448">
+                                              <score id="bootstrap" value="15" />
+                                              <property name="taxon_id" value="91561" />
+                                              <property name="taxon_name" value="Cetartiodactyla" />
+                                              <geneRef id="2001534" />
+                                              <geneRef id="1960242" />
+                                            </orthologGroup>
+                                          </orthologGroup>
+                                          <geneRef id="630626" />
+                                        </orthologGroup>
+                                        <orthologGroup id="11172533">
+                                          <score id="bootstrap" value="96" />
+                                          <property name="taxon_id" value="33554" />
+                                          <property name="taxon_name" value="Carnivora" />
+                                          <geneRef id="1748015" />
+                                          <orthologGroup id="11172572">
+                                            <score id="bootstrap" value="38" />
+                                            <property name="taxon_id" value="379584" />
+                                            <property name="taxon_name" value="Caniformia" />
+                                            <geneRef id="1036934" />
+                                            <orthologGroup id="11172638">
+                                              <score id="bootstrap" value="38" />
+                                              <property name="taxon_id" value="379584" />
+                                              <property name="taxon_name" value="Caniformia" />
+                                              <geneRef id="1656186" />
+                                              <geneRef id="841819" />
+                                            </orthologGroup>
+                                          </orthologGroup>
+                                        </orthologGroup>
+                                      </orthologGroup>
+                                    </orthologGroup>
+                                  </orthologGroup>
+                                </orthologGroup>
+                              </orthologGroup>
+                            </orthologGroup>
+                          </orthologGroup>
+                        </orthologGroup>
+                      </orthologGroup>
+                      <geneRef id="2566156" />
+                    </orthologGroup>
+                  </orthologGroup>
+                  <geneRef id="1583089" />
+                </orthologGroup>
+              </orthologGroup>
+              <orthologGroup id="11170179">
+                <score id="bootstrap" value="69" />
+                <property name="taxon_id" value="186625" />
+                <property name="taxon_name" value="Clupeocephala" />
+                <geneRef id="1784483" />
+                <orthologGroup id="11170240">
+                  <score id="bootstrap" value="68" />
+                  <property name="taxon_id" value="123370" />
+                  <property name="taxon_name" value="Holacanthopterygii" />
+                  <geneRef id="2012394" />
+                  <orthologGroup id="11170291">
+                    <score id="duplication_confidence_score" value="0.0000" />
+                    <score id="bootstrap" value="1" />
+                    <property name="taxon_id" value="32485" />
+                    <property name="taxon_name" value="Percomorpha" />
+                    <property name="dubious_duplication" value="1" />
+                    <orthologGroup id="11170318">
+                      <score id="bootstrap" value="1" />
+                      <property name="taxon_id" value="32485" />
+                      <property name="taxon_name" value="Percomorpha" />
+                      <orthologGroup id="11170472">
+                        <score id="bootstrap" value="31" />
+                        <property name="taxon_id" value="129949" />
+                        <property name="taxon_name" value="Smegmamorpha" />
+                        <geneRef id="2112652" />
+                        <geneRef id="1741395" />
+                      </orthologGroup>
+                      <orthologGroup id="11170359">
+                        <score id="bootstrap" value="2" />
+                        <property name="taxon_id" value="32485" />
+                        <property name="taxon_name" value="Percomorpha" />
+                        <geneRef id="472947" />
+                        <geneRef id="1774252" />
+                      </orthologGroup>
+                    </orthologGroup>
+                    <orthologGroup id="11170565">
+                      <score id="bootstrap" value="1" />
+                      <property name="taxon_id" value="32485" />
+                      <property name="taxon_name" value="Percomorpha" />
+                      <geneRef id="178528" />
+                      <geneRef id="2090036" />
+                    </orthologGroup>
+                  </orthologGroup>
+                </orthologGroup>
+              </orthologGroup>
+            </orthologGroup>
+            <orthologGroup id="11173628">
+              <score id="bootstrap" value="40" />
+              <property name="taxon_id" value="7742" />
+              <property name="taxon_name" value="Vertebrata" />
+              <orthologGroup id="11173658">
+                <score id="bootstrap" value="38" />
+                <property name="taxon_id" value="117571" />
+                <property name="taxon_name" value="Euteleostomi" />
+                <orthologGroup id="11173680">
+                  <score id="bootstrap" value="100" />
+                  <property name="taxon_id" value="186625" />
+                  <property name="taxon_name" value="Clupeocephala" />
+                  <orthologGroup id="11173748">
+                    <score id="bootstrap" value="6" />
+                    <property name="taxon_id" value="123370" />
+                    <property name="taxon_name" value="Holacanthopterygii" />
+                    <orthologGroup id="11173812">
+                      <score id="bootstrap" value="3" />
+                      <property name="taxon_id" value="32485" />
+                      <property name="taxon_name" value="Percomorpha" />
+                      <orthologGroup id="11174059">
+                        <score id="bootstrap" value="98" />
+                        <property name="taxon_id" value="31031" />
+                        <property name="taxon_name" value="Tetraodontidae" />
+                        <geneRef id="2443606" />
+                        <geneRef id="1669406" />
+                      </orthologGroup>
+                      <orthologGroup id="11173840">
+                        <score id="duplication_confidence_score" value="0.0000" />
+                        <score id="bootstrap" value="1" />
+                        <property name="taxon_id" value="32485" />
+                        <property name="taxon_name" value="Percomorpha" />
+                        <property name="dubious_duplication" value="1" />
+                        <geneRef id="2050226" />
+                        <orthologGroup id="11173891">
+                          <score id="bootstrap" value="0" />
+                          <property name="taxon_id" value="32485" />
+                          <property name="taxon_name" value="Percomorpha" />
+                          <geneRef id="865062" />
+                          <orthologGroup id="11173959">
+                            <score id="bootstrap" value="0" />
+                            <property name="taxon_id" value="32456" />
+                            <property name="taxon_name" value="Atherinomorpha" />
+                            <geneRef id="192829" />
+                            <geneRef id="1527253" />
+                          </orthologGroup>
+                        </orthologGroup>
+                      </orthologGroup>
+                    </orthologGroup>
+                    <geneRef id="2866156" />
+                  </orthologGroup>
+                  <geneRef id="2211042" />
+                </orthologGroup>
+                <orthologGroup id="11174146">
+                  <score id="bootstrap" value="22" />
+                  <property name="taxon_id" value="8287" />
+                  <property name="taxon_name" value="Sarcopterygii" />
+                  <orthologGroup id="11174179">
+                    <score id="bootstrap" value="56" />
+                    <property name="taxon_id" value="32524" />
+                    <property name="taxon_name" value="Amniota" />
+                    <orthologGroup id="11174448">
+                      <score id="bootstrap" value="38" />
+                      <property name="taxon_id" value="40674" />
+                      <property name="taxon_name" value="Mammalia" />
+                      <geneRef id="2450676" />
+                      <orthologGroup id="11174521">
+                        <score id="bootstrap" value="38" />
+                        <property name="taxon_id" value="32525" />
+                        <property name="taxon_name" value="Theria" />
+                        <orthologGroup id="11176940">
+                          <score id="bootstrap" value="70" />
+                          <property name="taxon_id" value="9263" />
+                          <property name="taxon_name" value="Marsupialia" />
+                          <orthologGroup id="11177012">
+                            <score id="bootstrap" value="70" />
+                            <property name="taxon_id" value="9263" />
+                            <property name="taxon_name" value="Marsupialia" />
+                            <geneRef id="760005" />
+                            <geneRef id="2859265" />
+                          </orthologGroup>
+                          <geneRef id="404306" />
+                        </orthologGroup>
+                        <orthologGroup id="11174545">
+                          <score id="duplication_confidence_score" value="0.0000" />
+                          <score id="bootstrap" value="0" />
+                          <property name="taxon_id" value="9347" />
+                          <property name="taxon_name" value="Eutheria" />
+                          <property name="dubious_duplication" value="1" />
+                          <orthologGroup id="11174584">
+                            <score id="bootstrap" value="0" />
+                            <property name="taxon_id" value="9347" />
+                            <property name="taxon_name" value="Eutheria" />
+                            <orthologGroup id="11175099">
+                              <score id="bootstrap" value="0" />
+                              <property name="taxon_id" value="9347" />
+                              <property name="taxon_name" value="Eutheria" />
+                              <geneRef id="2954512" />
+                              <orthologGroup id="11175135">
+                                <score id="bootstrap" value="11" />
+                                <property name="taxon_id" value="9989" />
+                                <property name="taxon_name" value="Rodentia" />
+                                <geneRef id="1324659" />
+                                <geneRef id="2656894" />
+                              </orthologGroup>
+                            </orthologGroup>
+                            <orthologGroup id="11174616">
+                              <score id="bootstrap" value="0" />
+                              <property name="taxon_id" value="314145" />
+                              <property name="taxon_name" value="Laurasiatheria" />
+                              <geneRef id="638063" />
+                              <orthologGroup id="11174647">
+                                <score id="bootstrap" value="0" />
+                                <property name="taxon_id" value="314145" />
+                                <property name="taxon_name" value="Laurasiatheria" />
+                                <orthologGroup id="11174670">
+                                  <score id="bootstrap" value="57" />
+                                  <property name="taxon_id" value="33554" />
+                                  <property name="taxon_name" value="Carnivora" />
+                                  <orthologGroup id="11174737">
+                                    <score id="bootstrap" value="39" />
+                                    <property name="taxon_id" value="379584" />
+                                    <property name="taxon_name" value="Caniformia" />
+                                    <orthologGroup id="11174770">
+                                      <score id="bootstrap" value="41" />
+                                      <property name="taxon_id" value="379584" />
+                                      <property name="taxon_name" value="Caniformia" />
+                                      <geneRef id="2088577" />
+                                      <geneRef id="652237" />
+                                    </orthologGroup>
+                                    <paralogGroup id="11174866">
+                                      <score id="duplication_confidence_score" value="1.0000" />
+                                      <score id="bootstrap" value="99" />
+                                      <property name="taxon_id" value="9615" />
+                                      <property name="taxon_name" value="Canis familiaris" />
+                                      <geneRef id="1186052" />
+                                      <geneRef id="1722860" />
+                                    </paralogGroup>
+                                  </orthologGroup>
+                                  <geneRef id="2445223" />
+                                </orthologGroup>
+                                <orthologGroup id="11174973">
+                                  <score id="bootstrap" value="5" />
+                                  <property name="taxon_id" value="314145" />
+                                  <property name="taxon_name" value="Laurasiatheria" />
+                                  <geneRef id="2207202" />
+                                  <geneRef id="2818224" />
+                                </orthologGroup>
+                              </orthologGroup>
+                            </orthologGroup>
+                          </orthologGroup>
+                          <orthologGroup id="11175286">
+                            <score id="bootstrap" value="0" />
+                            <property name="taxon_id" value="9347" />
+                            <property name="taxon_name" value="Eutheria" />
+                            <orthologGroup id="11175319">
+                              <score id="bootstrap" value="1" />
+                              <property name="taxon_id" value="314146" />
+                              <property name="taxon_name" value="Euarchontoglires" />
+                              <orthologGroup id="11175389">
+                                <score id="bootstrap" value="0" />
+                                <property name="taxon_id" value="314146" />
+                                <property name="taxon_name" value="Euarchontoglires" />
+                                <orthologGroup id="11175423">
+                                  <score id="bootstrap" value="0" />
+                                  <property name="taxon_id" value="314147" />
+                                  <property name="taxon_name" value="Glires" />
+                                  <orthologGroup id="11175457">
+                                    <score id="bootstrap" value="11" />
+                                    <property name="taxon_id" value="33553" />
+                                    <property name="taxon_name" value="Sciurognathi" />
+                                    <orthologGroup id="11175523">
+                                      <score id="bootstrap" value="100" />
+                                      <property name="taxon_id" value="39107" />
+                                      <property name="taxon_name" value="Murinae" />
+                                      <geneRef id="2320820" />
+                                      <geneRef id="2585906" />
+                                    </orthologGroup>
+                                    <geneRef id="684572" />
+                                  </orthologGroup>
+                                  <orthologGroup id="11175620">
+                                    <score id="bootstrap" value="40" />
+                                    <property name="taxon_id" value="9975" />
+                                    <property name="taxon_name" value="Lagomorpha" />
+                                    <geneRef id="2122952" />
+                                    <geneRef id="1839494" />
+                                  </orthologGroup>
+                                </orthologGroup>
+                                <orthologGroup id="11175738">
+                                  <score id="bootstrap" value="9" />
+                                  <property name="taxon_id" value="9443" />
+                                  <property name="taxon_name" value="Primates" />
+                                  <orthologGroup id="11175778">
+                                    <score id="bootstrap" value="95" />
+                                    <property name="taxon_id" value="314293" />
+                                    <property name="taxon_name" value="Simiiformes" />
+                                    <geneRef id="2619250" />
+                                    <orthologGroup id="11175817">
+                                      <score id="bootstrap" value="28" />
+                                      <property name="taxon_id" value="9526" />
+                                      <property name="taxon_name" value="Catarrhini" />
+                                      <orthologGroup id="11175888">
+                                        <score id="bootstrap" value="29" />
+                                        <property name="taxon_id" value="314295" />
+                                        <property name="taxon_name" value="Hominoidea" />
+                                        <geneRef id="859798" />
+                                        <orthologGroup id="11175955">
+                                          <score id="bootstrap" value="44" />
+                                          <property name="taxon_id" value="9604" />
+                                          <property name="taxon_name" value="Hominidae" />
+                                          <orthologGroup id="11176037">
+                                            <score id="bootstrap" value="1" />
+                                            <property name="taxon_id" value="207598" />
+                                            <property name="taxon_name" value="Homininae" />
+                                            <geneRef id="1865650" />
+                                            <orthologGroup id="11176070">
+                                              <score id="bootstrap" value="1" />
+                                              <property name="taxon_id" value="207598" />
+                                              <property name="taxon_name" value="Homininae" />
+                                              <geneRef id="1536237" />
+                                              <geneRef id="1805018" />
+                                            </orthologGroup>
+                                          </orthologGroup>
+                                          <geneRef id="1957727" />
+                                        </orthologGroup>
+                                      </orthologGroup>
+                                      <geneRef id="2616626" />
+                                    </orthologGroup>
+                                  </orthologGroup>
+                                  <orthologGroup id="11176264">
+                                    <score id="bootstrap" value="47" />
+                                    <property name="taxon_id" value="376911" />
+                                    <property name="taxon_name" value="Strepsirrhini" />
+                                    <geneRef id="127665" />
+                                    <geneRef id="2865630" />
+                                  </orthologGroup>
+                                </orthologGroup>
+                              </orthologGroup>
+                              <geneRef id="2892158" />
+                            </orthologGroup>
+                            <orthologGroup id="11176377">
+                              <score id="bootstrap" value="0" />
+                              <property name="taxon_id" value="9347" />
+                              <property name="taxon_name" value="Eutheria" />
+                              <orthologGroup id="11176416">
+                                <score id="bootstrap" value="0" />
+                                <property name="taxon_id" value="314145" />
+                                <property name="taxon_name" value="Laurasiatheria" />
+                                <orthologGroup id="11176575">
+                                  <score id="bootstrap" value="65" />
+                                  <property name="taxon_id" value="91561" />
+                                  <property name="taxon_name" value="Cetartiodactyla" />
+                                  <geneRef id="2145494" />
+                                  <geneRef id="486246" />
+                                </orthologGroup>
+                                <orthologGroup id="11176449">
+                                  <score id="bootstrap" value="10" />
+                                  <property name="taxon_id" value="314145" />
+                                  <property name="taxon_name" value="Laurasiatheria" />
+                                  <geneRef id="1069216" />
+                                  <geneRef id="318236" />
+                                </orthologGroup>
+                              </orthologGroup>
+                              <orthologGroup id="11176693">
+                                <score id="bootstrap" value="0" />
+                                <property name="taxon_id" value="9347" />
+                                <property name="taxon_name" value="Eutheria" />
+                                <orthologGroup id="11176733">
+                                  <score id="bootstrap" value="74" />
+                                  <property name="taxon_id" value="311790" />
+                                  <property name="taxon_name" value="Afrotheria" />
+                                  <geneRef id="2456289" />
+                                  <geneRef id="160385" />
+                                </orthologGroup>
+                                <orthologGroup id="11176838">
+                                  <score id="bootstrap" value="98" />
+                                  <property name="taxon_id" value="9348" />
+                                  <property name="taxon_name" value="Xenarthra" />
+                                  <geneRef id="2846208" />
+                                  <geneRef id="2265623" />
+                                </orthologGroup>
+                              </orthologGroup>
+                            </orthologGroup>
+                          </orthologGroup>
+                        </orthologGroup>
+                      </orthologGroup>
+                    </orthologGroup>
+                    <orthologGroup id="11174211">
+                      <score id="duplication_confidence_score" value="0.0000" />
+                      <score id="bootstrap" value="75" />
+                      <property name="taxon_id" value="8457" />
+                      <property name="taxon_name" value="Sauropsida" />
+                      <property name="dubious_duplication" value="1" />
+                      <geneRef id="391667" />
+                      <orthologGroup id="11174273">
+                        <score id="bootstrap" value="100" />
+                        <property name="taxon_id" value="8457" />
+                        <property name="taxon_name" value="Sauropsida" />
+                        <orthologGroup id="11174332">
+                          <score id="bootstrap" value="100" />
+                          <property name="taxon_id" value="9005" />
+                          <property name="taxon_name" value="Phasianidae" />
+                          <geneRef id="567224" />
+                          <geneRef id="392334" />
+                        </orthologGroup>
+                        <geneRef id="2052398" />
+                      </orthologGroup>
+                    </orthologGroup>
+                  </orthologGroup>
+                  <geneRef id="540346" />
+                </orthologGroup>
+              </orthologGroup>
+              <paralogGroup id="11177153">
+                <score id="duplication_confidence_score" value="1.0000" />
+                <score id="bootstrap" value="64" />
+                <property name="taxon_id" value="7757" />
+                <property name="taxon_name" value="Petromyzon marinus" />
+                <geneRef id="62308" />
+                <geneRef id="453251" />
+              </paralogGroup>
+            </orthologGroup>
+          </paralogGroup>
+        </orthologGroup>
+        <orthologGroup id="11168872">
+          <score id="bootstrap" value="13" />
+          <property name="taxon_id" value="33317" />
+          <property name="taxon_name" value="Protostomia" />
+          <geneRef id="738554" />
+          <orthologGroup id="11168937">
+            <score id="bootstrap" value="100" />
+            <property name="taxon_id" value="7147" />
+            <property name="taxon_name" value="Diptera" />
+            <orthologGroup id="11169883">
+              <score id="bootstrap" value="100" />
+              <property name="taxon_id" value="43817" />
+              <property name="taxon_name" value="Culicinae" />
+              <geneRef id="2571898" />
+              <paralogGroup id="11169917">
+                <score id="duplication_confidence_score" value="1.0000" />
+                <score id="bootstrap" value="100" />
+                <property name="taxon_id" value="7176" />
+                <property name="taxon_name" value="Culex quinquefasciatus" />
+                <geneRef id="3297865" />
+                <geneRef id="4495813" />
+              </paralogGroup>
+            </orthologGroup>
+            <orthologGroup id="11168968">
+              <score id="bootstrap" value="1" />
+              <property name="taxon_id" value="7215" />
+              <property name="taxon_name" value="Drosophila" />
+              <orthologGroup id="11169006">
+                <score id="bootstrap" value="100" />
+                <property name="taxon_id" value="7215" />
+                <property name="taxon_name" value="Drosophila" />
+                <geneRef id="4311612" />
+                <orthologGroup id="11169081">
+                  <score id="bootstrap" value="100" />
+                  <property name="taxon_id" value="32281" />
+                  <property name="taxon_name" value="Drosophila" />
+                  <geneRef id="1348155" />
+                  <geneRef id="2432647" />
+                </orthologGroup>
+              </orthologGroup>
+              <orthologGroup id="11169186">
+                <score id="bootstrap" value="0" />
+                <property name="taxon_id" value="32341" />
+                <property name="taxon_name" value="Sophophora" />
+                <orthologGroup id="11169618">
+                  <score id="bootstrap" value="0" />
+                  <property name="taxon_id" value="32358" />
+                  <property name="taxon_name" value="pseudoobscura subgroup" />
+                  <geneRef id="3357335" />
+                  <paralogGroup id="11169675">
+                    <score id="duplication_confidence_score" value="1.0000" />
+                    <score id="bootstrap" value="0" />
+                    <property name="taxon_id" value="46245" />
+                    <property name="taxon_name" value="Drosophila pseudoobscura pseudoobscura" />
+                    <paralogGroup id="11169757">
+                      <score id="duplication_confidence_score" value="1.0000" />
+                      <score id="bootstrap" value="0" />
+                      <property name="taxon_id" value="46245" />
+                      <property name="taxon_name" value="Drosophila pseudoobscura pseudoobscura" />
+                      <geneRef id="3212641" />
+                      <geneRef id="4521012" />
+                    </paralogGroup>
+                    <geneRef id="4521066" />
+                  </paralogGroup>
+                </orthologGroup>
+                <orthologGroup id="11169222">
+                  <score id="bootstrap" value="2" />
+                  <property name="taxon_id" value="32341" />
+                  <property name="taxon_name" value="Sophophora" />
+                  <geneRef id="3359859" />
+                  <orthologGroup id="11169296">
+                    <score id="bootstrap" value="99" />
+                    <property name="taxon_id" value="32346" />
+                    <property name="taxon_name" value="melanogaster group" />
+                    <geneRef id="3234710" />
+                    <orthologGroup id="11169322">
+                      <score id="bootstrap" value="100" />
+                      <property name="taxon_id" value="32351" />
+                      <property name="taxon_name" value="melanogaster subgroup" />
+                      <geneRef id="3006179" />
+                      <orthologGroup id="11169352">
+                        <score id="bootstrap" value="100" />
+                        <property name="taxon_id" value="32351" />
+                        <property name="taxon_name" value="melanogaster subgroup" />
+                        <geneRef id="3260869" />
+                        <orthologGroup id="11169388">
+                          <score id="bootstrap" value="100" />
+                          <property name="taxon_id" value="32351" />
+                          <property name="taxon_name" value="melanogaster subgroup" />
+                          <geneRef id="4174108" />
+                          <geneRef id="4318000" />
+                        </orthologGroup>
+                      </orthologGroup>
+                    </orthologGroup>
+                  </orthologGroup>
+                </orthologGroup>
+              </orthologGroup>
+            </orthologGroup>
+          </orthologGroup>
+        </orthologGroup>
+      </orthologGroup>
+    </orthologGroup>
+  </groups>
+</orthoXML>
